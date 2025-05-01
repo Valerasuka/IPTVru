@@ -1,1 +1,785 @@
+#EXTM3U
+#EXTINF:0, Первый канал КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=40
+#EXTINF:20, Первый канал HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=39
+#EXTINF:30, Первый канал
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=38
+#EXTINF:40, Росcия 1 КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=43
+#EXTINF:50, Россия 1 HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=42
+#EXTINF:60, Россия 1
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=41
+#EXTINF:70, Матч ТB КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=454
+#EXTINF:80, Матч ТВ HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=434
+#EXTINF:90, Матч ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1021
+#EXTINF:100, НТВ КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=333
+#EXTINF:103, НТВ HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1166
+#EXTINF:110, НТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=58
+#EXTINF:130, 5 канал КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=335
+#EXTINF:150, 5 канал
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=45
+#EXTINF:160, Россия-К КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=763
+#EXTINF:180, Россия-24 КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1127
+#EXTINF:200, Карусель КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=633
+#EXTINF:202, Карусель HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1347
+#EXTINF:203, РИМ ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=323
+#EXTINF:210, Карусель
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=94
+#EXTINF:220, ОТР КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1128
+#EXTINF:230, ОТР
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=56
+#EXTINF:240, ТВ Центр КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=385
+#EXTINF:250, ТВ Центр
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=53
+#EXTINF:260, РЕH ТВ КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=361
+#EXTINF:280, РЕН ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=52
+#EXTINF:290, Спас КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1125
+#EXTINF:300, Спас
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=153
+#EXTINF:310, СТC КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=321
+#EXTINF:320, СТС HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1318
+#EXTINF:330, СТС
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=46
+#EXTINF:340, Домашний КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1126
+#EXTINF:345, Домашний HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1317
+#EXTINF:350, Домашний
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=51
+#EXTINF:360, ТВ 3 КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=325
+#EXTINF:370, ТВ 3
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=60
+#EXTINF:380, Пятницa! КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=163
+#EXTINF:390, Пятница!
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=259
+#EXTINF:400, Звезда КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=484
+#EXTINF:410, Звезда
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=55
+#EXTINF:420, Мир КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=511
+#EXTINF:440, Мир
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=63
+#EXTINF:460, ТНТ КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=481
+#EXTINF:490, ТНТ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=47
+#EXTINF:510, Муз-ТВ КУ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1124
+#EXTINF:520, Муз-ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=386
+#EXTINF:523, ТВ Гонг
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=324
+#EXTINF:525, Компас ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=50
+#EXTINF:555, Рoссия-К
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=44
+#EXTINF:556, Россия-24
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=141
+#EXTINF:565, 360 Гонг
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1129
+#EXTINF:570, ОТВ Екатеринбург
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=256
+#EXTINF:580, Крик ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=252
+#EXTINF:640, Че Гонг
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1130
+#EXTINF:650, Че
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=59
+#EXTINF:655, Тайна
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1314
+#EXTINF:660, 360°
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1027
+#EXTINF:670, 360° HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=391
+#EXTINF:680, 360 Новости
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1162
+#EXTINF:690, Продвижение Гонг
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1146
+#EXTINF:730, 8 канал
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=62
+#EXTINF:740, Мир 24
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=253
+#EXTINF:760, ТБН Россия
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=261
+#EXTINF:770, Калейдоскоп ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=441
+#EXTINF:780, Теледом HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=292
+#EXTINF:790, Точка ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=440
+#EXTINF:805, Silkway Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1373
+#EXTINF:814, ТИВИСИ HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1300
+#EXTINF:840, Санкт-Петербург
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=236
+#EXTINF:850, Москва 24
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=54
+#EXTINF:860, Вместе-РФ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=352
+#EXTINF:1010, НТВ-Хит
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1183
+#EXTINF:1290, Театр
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=354
+#EXTINF:1330, СТС Love
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=357
+#EXTINF:1350, НТВ Сериал
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1157
+#EXTINF:1573, КиноМульт
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1382
+#EXTINF:1575, СуперГерои
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1299
+#EXTINF:1590, СТС Kids HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1175
+#EXTINF:1615, Солнце
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1337
+#EXTINF:1620, Рыжий
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=281
+#EXTINF:1640, Уникум
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=95
+#EXTINF:1655, Шаян ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1220
+#EXTINF:1660, Открытый  Мир
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=467
+#EXTINF:1690, Крым 24
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=469
+#EXTINF:1760, Три Ангела
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=471
+#EXTINF:1770, Мультиландия
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1173
+#EXTINF:1790, Ani
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=397
+#EXTINF:1830, Известия HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=997
+#EXTINF:1835, Соловьев Live
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1312
+#EXTINF:1860, Москва Доверие
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=458
+#EXTINF:1910, Мультимузыка
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1022
+#EXTINF:1940, Про Бизнес
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=468
+#EXTINF:2010, Мульт HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=488
+#EXTINF:2020, Смайлик
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1009
+#EXTINF:2035, Центральное ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1303
+#EXTINF:2050, 2x2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=105
+#EXTINF:2090, ТНТ4 (ТНТ-Comedy)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=106
+#EXTINF:2100, 7TV
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1156
+#EXTINF:2115, Мой мир
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1323
+#EXTINF:2125, Leomax24
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1326
+#EXTINF:2130, Shop & Show
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=473
+#EXTINF:2180, Мир баскетбола HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1211
+#EXTINF:2610, НТВ Право
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1159
+#EXTINF:2630, РБК
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=134
+#EXTINF:2635, РБК ТВ HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1324
+#EXTINF:2650, Пёс и Ко
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1008
+#EXTINF:2660, 78
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=550
+#EXTINF:2700, о2тв
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1013
+#EXTINF:2720, Gagsnetwork
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1212
+#EXTINF:2755, Неизвестная Россия
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1383
+#EXTINF:2780, Совершенно секретно
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=383
+#EXTINF:2790, Ратник HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1158
+#EXTINF:2800, Russia Today
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=142
+#EXTINF:2810, Russia Today HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=332
+#EXTINF:2820, RT Д HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=143
+#EXTINF:2980, Красная линия
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=439
+#EXTINF:2985, Дума ТВ HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1350
+#EXTINF:2990, ЛДПР ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=322
+#EXTINF:3000, Союз HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=154
+#EXTINF:3040, Беларусь 24
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=560
+#EXTINF:3060, ТНВ Татарстан
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=267
+#EXTINF:3064, Миллет HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1295
+#EXTINF:3066, 24KZ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1385
+#EXTINF:3070, ТНВ-Планета
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=157
+#EXTINF:3090, Arirang
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=282
+#EXTINF:3095, Аист
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=477
+#EXTINF:3100, БелРос
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=159
+#EXTINF:3235, BRIDGE Шлягер
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1384
+#EXTINF:3240, Bridge Deluxe
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=490
+#EXTINF:3330, Europa Plus TV HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=167
+#EXTINF:3360, ТНТ Music
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=169
+#EXTINF:3410, 9 Волна
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1171
+#EXTINF:3442, Music Box Gold
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1321
+#EXTINF:3450, Music Box RU
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=174
+#EXTINF:3470, Ю
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=269
+#EXTINF:3490, Bridge TV
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=176
+#EXTINF:3500, Bridge TV Русский Хит
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=177
+#EXTINF:3510, Bridge TV Hits
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=285
+#EXTINF:3520, BRIDGE TV CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=991
+#EXTINF:3610, НТВ Стиль
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1154
+#EXTINF:3820, Поехали!
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1136
+#EXTINF:3840, Глазами туриста HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1150
+#EXTINF:3850, RTG HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=243
+#EXTINF:3920, Broken Screen
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1145
+#EXTINF:3990, Суббота!
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1051
+#EXTINF:4090, Живая природа HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=399
+#EXTINF:4220, Большая Азия HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1011
+#EXTINF:4230, Министерство идей
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=757
+#EXTINF:4300, Нано ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=208
+#EXTINF:4302, Нано HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1155
+#EXTINF:4330, ЕГЭ ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=356
+#EXTINF:4350, Просвещение
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=257
+#EXTINF:4360, HD Media
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=240
+#EXTINF:4470, KBS World HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=838
+#EXTINF:4550, РЖД ТВ HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1015
+#EXTINF:4570, Ювелирочка
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=625
+#EXTINF:4590, Shopping Live
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=449
+#EXTINF:4650, Жара
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=994
+#EXTINF:4670, Мама
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=218
+#EXTINF:4690, Радость моя
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=219
+#EXTINF:4740, Luxury
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=317
+#EXTINF:4770, TVMChannel
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=996
+#EXTINF:4810, Первый Вегетарианский
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1017
+#EXTINF:4850, Waves HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1197
+#EXTINF:4860, Fireplace HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1196
+#EXTINF:4870, Fishy HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1195
+#EXTINF:4910, Водопад в джунглях
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1030
+#EXTINF:4925, Краснодар-Сочи
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1336
+#EXTINF:4930, Костёр у реки
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1028
+#EXTINF:4940, Мост под дождём
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1031
+#EXTINF:4950, Камин
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=998
+#EXTINF:4960, Ручей в горах
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1029
+#EXTINF:4980, Nick Offerman`s Yule Log
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1198
+#EXTINF:4985, Гипно ТВ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1345
+#EXTINF:6000, пр. Победы - ул. Павлова
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1221
+#EXTINF:6010, 1-ая Синарская (спуск с моста)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1222
+#EXTINF:6020, пр. Победы - ул. Ленина
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1223
+#EXTINF:6030, ул. Алюминиевая - ул. Калинина
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1224
+#EXTINF:6040, ул. Карла Маркса - ул. Кирова
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1225
+#EXTINF:6050, ул. Алюминиевая - ул. Челябинская
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1226
+#EXTINF:6060, Площадь Ленинского Комсомола
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1227
+#EXTINF:6070, ул. Суворова (подъем от Байновского моста)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1228
+#EXTINF:6080, Байновский мост (ул.Алюминиевая 86)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1229
+#EXTINF:6090, Байновский мост (ул.Суворова 9)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1230
+#EXTINF:6100, Светофор СинТЗ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1231
+#EXTINF:6110, ул. Красных Орлов 4 (Березовая роща)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1237
+#EXTINF:6120, пл. Ленинского Комсомола (фонтан)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1238
+#EXTINF:6130, ул. Ленина - пер. Санаторный
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1239
+#EXTINF:6140, ул. Пушкина - пр. Победы
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1240
+#EXTINF:6150, ул. Добролюбова - пр. Победы
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1241
+#EXTINF:6160, ул. 4-й Пятилетки - ул. Суворова
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1242
+#EXTINF:6162, ул. 4-ой Пятилетки - ул. Кутузова
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1293
+#EXTINF:6170, ул. Октябрьская - ул. Суворова
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1243
+#EXTINF:6180, ул. К.Маркса - пр. Победы
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1244
+#EXTINF:6190, ул. Ленина - ул. Кадочникова (администрация)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1245
+#EXTINF:6200, ул. Суворова - ул. Шестакова
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1246
+#EXTINF:6210, ул. Кирова (ТЦ Парус)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1247
+#EXTINF:6220, ул. Кунавина - ул. Кирова
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1248
+#EXTINF:6230, ул. Кунавина - пр. Победы
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1249
+#EXTINF:6240, ул. Алюминиевая - ул. Уральская
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1250
+#EXTINF:6250, пл. Горького
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1251
+#EXTINF:6260, ул. Ленина - ул. Кунавина (БЦ Петровский)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1252
+#EXTINF:6270, ул. Ленина - ул. К.Маркса
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1253
+#EXTINF:6280, ул. Кадочникова - ул. Рябова (Диагн. центр)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1254
+#EXTINF:6290, ул. Рябова (Диагностический центр)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1255
+#EXTINF:6300, ул. Кадочникова - пр. Победы
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1256
+#EXTINF:6310, ул. Суворова - ул. Каменская
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1257
+#EXTINF:6320, Байновский мост (ул. Суворова 9)
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1258
+#EXTINF:6330, ул. Кунавина 6
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1259
+#EXTINF:6340, ул. Каменская - ул. Кутузова
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1260
+#EXTINF:6350, Бульвар Парижской Коммуны
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1261
+#EXTINF:6360, Сквер Молодежный
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1262
+#EXTINF:6370, ул. Тевосяна - 1
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1265
+#EXTINF:6380, ул. Тевосяна - 2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1264
+#EXTINF:6400, ул. Озерная 5
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1266
+#EXTINF:6410, ул. Озерная 6
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1267
+#EXTINF:6420, Аллея Славы
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1268
+#EXTINF:6421, Аллея Славы - 2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1276
+#EXTINF:6430, Парк Отдыха Космос - 1
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1269
+#EXTINF:6440, Парк Отдыха Космос - 2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1270
+#EXTINF:6450, Парк Отдыха Космос - 3
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1271
+#EXTINF:6470, Тимирязевский парк - 1
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1273
+#EXTINF:6480, Тимирязевский парк - 2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1274
+#EXTINF:6490, Фонтан Слонёнок
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1275
+#EXTINF:6505, Парк Набережная вход
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1292
+#EXTINF:6510, Парк Набережная мост
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1277
+#EXTINF:6520, Парк Набережная 1
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1278
+#EXTINF:6530, Парк Набережная 2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1279
+#EXTINF:6540, Парк Набережная 3
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1280
+#EXTINF:6550, Парк Набережная 4
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1281
+#EXTINF:6560, Парк Набережная 5
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1282
+#EXTINF:6570, Парк Набережная 6
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1283
+#EXTINF:6580, Сквер по ул. Тевосяна 1
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1284
+#EXTINF:6590, Сквер по ул. Тевосяна 2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1285
+#EXTINF:6600, Сквер по ул. Тевосяна 3
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1286
+#EXTINF:6610, Сквер по ул. Тевосяна 4
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1287
+#EXTINF:6620, Горнолыжная трасса 1
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1288
+#EXTINF:6630, Горнолыжная трасса 2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1289
+#EXTINF:6640, ДК Современник
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1290
+#EXTINF:6650, Памятник Синарским трубникам
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1291
+#EXTINF:6660, Центр Бокса
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1294
+#EXTINF:6670, Московская ЖД переезд
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1310
+#EXTINF:6680, Мемориал Вечный Огонь 1
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1342
+#EXTINF:6690, Мемориал Вечный Огонь 2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1343
+#EXTINF:6700, Мемориал Вечный Огонь 3
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1344
+#EXTINF:98000, Вести ФМ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1232
+#EXTINF:98001, Маяк
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1233
+#EXTINF:98002, Радио России
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1234
+#EXTINF:98003, Интерра FM
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1338
+#EXTINF:98004, НАШЕ радио
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1339
+#EXTINF:98005, ROCK FM
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1340
+#EXTINF:98007, Rock Arsenal
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1371
+#EXTINF:98009, Радио Атмосфера
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1341
+#EXTINF:98110, Радио Релакс
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1363
+#EXTINF:98115, Ваня - НК
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1364
+#EXTINF:98120, Дорожное - НК
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1365
+#EXTINF:98125, ДФМ - НК
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1366
+#EXTINF:98130, Европа Плюс - НК
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1367
+#EXTINF:98135, Монте Карло - НК
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1368
+#EXTINF:98140, Новое радио - НК
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1369
+#EXTINF:98145, Рекорд - НК
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1370
 
