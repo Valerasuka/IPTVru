@@ -1,2 +1,928 @@
-#EXTM3U ip="130.255.48.5" url-tvg="http://kt-tv.ru/iptv/jtv.zip?t=7938" url-xml="http://kt-tv.ru/iptv/xmltv.xml.gz?t=7938" refresh="3600" deinterlace=1 sync="1" sid="ASTRA2" #EXTINF:10 censored="0" id="vsetv_541" tvg-id="541" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Первый канал (+2)" tvg-logo="http://kt-tv.ru/tvthumb/40.png", Первый канал КУ http://kt-tv.ru/iptv/channels.php?channel=40 #EXTINF:20 censored="0" id="vsetv_1693" tvg-id="1693" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Первый канал HD" tvg-logo="http://kt-tv.ru/tvthumb/39.png", Первый канал HD http://kt-tv.ru/iptv/channels.php?channel=39 #EXTINF:30 censored="0" id="vsetv_8" tvg-id="8" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Первый канал (Россия)" tvg-logo="http://kt-tv.ru/tvthumb/38.png", Первый канал http://kt-tv.ru/iptv/channels.php?channel=38 #EXTINF:40 censored="0" id="vsetv_548" tvg-id="548" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Россия 1 (+2)" tvg-logo="http://kt-tv.ru/tvthumb/43.png", Росcия 1 КУ http://kt-tv.ru/iptv/channels.php?channel=43 #EXTINF:50 censored="0" id="vsetv_841" tvg-id="841" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Россия HD" tvg-logo="http://kt-tv.ru/tvthumb/42.png", Россия 1 HD http://kt-tv.ru/iptv/channels.php?channel=42 #EXTINF:60 censored="0" id="vsetv_9" tvg-id="9" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Россия 1" tvg-logo="http://kt-tv.ru/tvthumb/41.png", Россия 1 http://kt-tv.ru/iptv/channels.php?channel=41 #EXTINF:70 censored="0" id="vsetv_1077" tvg-id="1077" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Матч ТВ" tvg-logo="http://kt-tv.ru/tvthumb/454.png", Матч ТB КУ http://kt-tv.ru/iptv/channels.php?channel=454 #EXTINF:80 censored="0" id="vsetv_1090" tvg-id="1090" group_id="13" group-title="Спортивные" tvg-shift="0" tvg-name="Матч ТВ" tvg-logo="http://kt-tv.ru/tvthumb/434.png", Матч ТВ HD http://kt-tv.ru/iptv/channels.php?channel=434 #EXTINF:90 censored="0" id="vsetv_10001021" tvg-id="10001021" group_id="13" group-title="Спортивные" tvg-shift="0" tvg-name="Матч ТВ" tvg-logo="http://kt-tv.ru/tvthumb/1021.png", Матч ТВ http://kt-tv.ru/iptv/channels.php?channel=1021 #EXTINF:100 censored="0" id="vsetv_545" tvg-id="545" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="НТВ (+2)" tvg-logo="http://kt-tv.ru/tvthumb/333.png", НТВ КУ http://kt-tv.ru/iptv/channels.php?channel=333 #EXTINF:103 censored="0" id="vsetv_10001166" tvg-id="10001166" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="НТВ HD" tvg-logo="http://kt-tv.ru/tvthumb/1166.png", НТВ HD http://kt-tv.ru/iptv/channels.php?channel=1166 #EXTINF:110 censored="0" id="vsetv_10" tvg-id="10" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="НТВ" tvg-logo="http://kt-tv.ru/tvthumb/58.png", НТВ http://kt-tv.ru/iptv/channels.php?channel=58 #EXTINF:130 censored="0" id="vsetv_640" tvg-id="640" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="5 канал (Россия) (+2)" tvg-logo="http://kt-tv.ru/tvthumb/335.png", 5 канал КУ http://kt-tv.ru/iptv/channels.php?channel=335 #EXTINF:150 censored="0" id="vsetv_308" tvg-id="308" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="5 канал (Россия)" tvg-logo="http://kt-tv.ru/tvthumb/45.png", 5 канал http://kt-tv.ru/iptv/channels.php?channel=45 #EXTINF:160 censored="0" id="vsetv_763" tvg-id="763" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Россия-К КУ" tvg-logo="http://kt-tv.ru/tvthumb/763.png", Россия-К КУ http://kt-tv.ru/iptv/channels.php?channel=763 #EXTINF:180 censored="0" id="vsetv_10001127" tvg-id="10001127" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Россия-24 КУ" tvg-logo="http://kt-tv.ru/tvthumb/1127.png", Россия-24 КУ http://kt-tv.ru/iptv/channels.php?channel=1127 #EXTINF:200 censored="0" id="vsetv_633" tvg-id="633" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Карусель КУ" tvg-logo="http://kt-tv.ru/tvthumb/633.png", Карусель КУ http://kt-tv.ru/iptv/channels.php?channel=633 #EXTINF:202 censored="0" id="vsetv_10001347" tvg-id="10001347" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Карусель HD" tvg-logo="http://kt-tv.ru/tvthumb/1347.png", Карусель HD http://kt-tv.ru/iptv/channels.php?channel=1347 #EXTINF:203 censored="0" id="vsetv_271" tvg-id="271" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="РИМ ТВ" tvg-logo="http://kt-tv.ru/tvthumb/323.png", РИМ ТВ http://kt-tv.ru/iptv/channels.php?channel=323 #EXTINF:210 censored="0" id="vsetv_687" tvg-id="687" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Карусель" tvg-logo="http://kt-tv.ru/tvthumb/94.png", Карусель http://kt-tv.ru/iptv/channels.php?channel=94 #EXTINF:220 censored="0" id="vsetv_10001128" tvg-id="10001128" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ОТР КУ" tvg-logo="http://kt-tv.ru/tvthumb/1128.png", ОТР КУ http://kt-tv.ru/iptv/channels.php?channel=1128 #EXTINF:230 censored="0" id="vsetv_880" tvg-id="880" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ОТР" tvg-logo="http://kt-tv.ru/tvthumb/56.png", ОТР http://kt-tv.ru/iptv/channels.php?channel=56 #EXTINF:240 censored="0" id="vsetv_559" tvg-id="559" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ТВ Центр (+2)" tvg-logo="http://kt-tv.ru/tvthumb/385.png", ТВ Центр КУ http://kt-tv.ru/iptv/channels.php?channel=385 #EXTINF:250 censored="0" id="vsetv_11" tvg-id="11" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ТВ Центр" tvg-logo="http://kt-tv.ru/tvthumb/53.png", ТВ Центр http://kt-tv.ru/iptv/channels.php?channel=53 #EXTINF:260 censored="0" id="vsetv_570" tvg-id="570" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="РЕН ТВ (+2)" tvg-logo="http://kt-tv.ru/tvthumb/361.png", РЕH ТВ КУ http://kt-tv.ru/iptv/channels.php?channel=361 #EXTINF:280 censored="0" id="vsetv_13" tvg-id="13" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="РЕН ТВ" tvg-logo="http://kt-tv.ru/tvthumb/52.png", РЕН ТВ http://kt-tv.ru/iptv/channels.php?channel=52 #EXTINF:290 censored="0" id="vsetv_10001125" tvg-id="10001125" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Спас КУ" tvg-logo="http://kt-tv.ru/tvthumb/1125.png", Спас КУ http://kt-tv.ru/iptv/channels.php?channel=1125 #EXTINF:300 censored="0" id="vsetv_238" tvg-id="238" group_id="5" group-title="История и Религия" tvg-shift="0" tvg-name="Спас" tvg-logo="http://kt-tv.ru/tvthumb/153.png", Спас http://kt-tv.ru/iptv/channels.php?channel=153 #EXTINF:310 censored="0" id="vsetv_538" tvg-id="538" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="СТС (+2)" tvg-logo="http://kt-tv.ru/tvthumb/321.png", СТC КУ http://kt-tv.ru/iptv/channels.php?channel=321 #EXTINF:320 censored="0" id="vsetv_10001318" tvg-id="10001318" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="СТС HD" tvg-logo="http://kt-tv.ru/tvthumb/1318.png", СТС HD http://kt-tv.ru/iptv/channels.php?channel=1318 #EXTINF:330 censored="0" id="vsetv_17" tvg-id="17" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="СТС" tvg-logo="http://kt-tv.ru/tvthumb/46.png", СТС http://kt-tv.ru/iptv/channels.php?channel=46 #EXTINF:340 censored="0" id="vsetv_1126" tvg-id="1126" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Домашний КУ" tvg-logo="http://kt-tv.ru/tvthumb/1126.png", Домашний КУ http://kt-tv.ru/iptv/channels.php?channel=1126 #EXTINF:345 censored="0" id="vsetv_10001317" tvg-id="10001317" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Домашний HD" tvg-logo="http://kt-tv.ru/tvthumb/1317.png", Домашний HD http://kt-tv.ru/iptv/channels.php?channel=1317 #EXTINF:350 censored="0" id="vsetv_124" tvg-id="124" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Домашний" tvg-logo="http://kt-tv.ru/tvthumb/51.png", Домашний http://kt-tv.ru/iptv/channels.php?channel=51 #EXTINF:360 censored="0" id="vsetv_564" tvg-id="564" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ТВ-3 Россия (+2)" tvg-logo="http://kt-tv.ru/tvthumb/325.png", ТВ 3 КУ http://kt-tv.ru/iptv/channels.php?channel=325 #EXTINF:370 censored="0" id="vsetv_63" tvg-id="63" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ТВ-3 Россия" tvg-logo="http://kt-tv.ru/tvthumb/60.png", ТВ 3 http://kt-tv.ru/iptv/channels.php?channel=60 #EXTINF:380 censored="0" id="vsetv_625" tvg-id="625" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Пятница (+2)" tvg-logo="http://kt-tv.ru/tvthumb/163.png", Пятницa! КУ http://kt-tv.ru/iptv/channels.php?channel=163 #EXTINF:390 censored="0" id="vsetv_48" tvg-id="48" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Пятница!" tvg-logo="http://kt-tv.ru/tvthumb/259.png", Пятница! http://kt-tv.ru/iptv/channels.php?channel=259 #EXTINF:400 censored="0" id="vsetv_566" tvg-id="566" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Звезда +2" tvg-logo="http://kt-tv.ru/tvthumb/484.png", Звезда КУ http://kt-tv.ru/iptv/channels.php?channel=484 #EXTINF:410 censored="0" id="vsetv_232" tvg-id="232" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Звезда" tvg-logo="http://kt-tv.ru/tvthumb/55.png", Звезда http://kt-tv.ru/iptv/channels.php?channel=55 #EXTINF:420 censored="0" id="vsetv_511" tvg-id="511" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Мир КУ" tvg-logo="http://kt-tv.ru/tvthumb/511.png", Мир КУ http://kt-tv.ru/iptv/channels.php?channel=511 #EXTINF:440 censored="0" id="vsetv_176" tvg-id="176" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="МирТВ" tvg-logo="http://kt-tv.ru/tvthumb/63.png", Мир http://kt-tv.ru/iptv/channels.php?channel=63 #EXTINF:460 censored="0" id="vsetv_14" tvg-id="14" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="1160" tvg-logo="http://kt-tv.ru/tvthumb/481.png", ТНТ КУ http://kt-tv.ru/iptv/channels.php?channel=481 #EXTINF:490 censored="0" id="vsetv_14" tvg-id="14" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ТНТ" tvg-logo="http://kt-tv.ru/tvthumb/47.png", ТНТ http://kt-tv.ru/iptv/channels.php?channel=47 #EXTINF:510 censored="0" id="vsetv_10001124" tvg-id="10001124" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Муз-ТВ КУ" tvg-logo="http://kt-tv.ru/tvthumb/1124.png", Муз-ТВ КУ http://kt-tv.ru/iptv/channels.php?channel=1124 #EXTINF:520 censored="0" id="vsetv_808" tvg-id="808" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Муз-ТВ" tvg-logo="http://kt-tv.ru/tvthumb/386.png", Муз-ТВ http://kt-tv.ru/iptv/channels.php?channel=386 #EXTINF:523 censored="0" id="vsetv_570" tvg-id="570" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="РЕН ТВ (+2)" tvg-logo="http://kt-tv.ru/tvthumb/324.png", ТВ Гонг http://kt-tv.ru/iptv/channels.php?channel=324 #EXTINF:525 censored="0" id="vsetv_1001" tvg-id="1001" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Компас ТВ" tvg-logo="http://kt-tv.ru/tvthumb/50.png", Компас ТВ http://kt-tv.ru/iptv/channels.php?channel=50 #EXTINF:555 censored="0" id="vsetv_15" tvg-id="15" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Культура" tvg-logo="http://kt-tv.ru/tvthumb/44.png", Рoссия-К http://kt-tv.ru/iptv/channels.php?channel=44 #EXTINF:556 censored="0" id="vsetv_328" tvg-id="328" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Россия 24" tvg-logo="http://kt-tv.ru/tvthumb/141.png", Россия-24 http://kt-tv.ru/iptv/channels.php?channel=141 #EXTINF:565 censored="0" id="vsetv_1129" tvg-id="1129" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="360 Гонг" tvg-logo="http://kt-tv.ru/tvthumb/1129.png", 360 Гонг http://kt-tv.ru/iptv/channels.php?channel=1129 #EXTINF:570 censored="0" id="vsetv_1569" tvg-id="1569" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ОТВ (Екатеринбург)" tvg-logo="http://kt-tv.ru/tvthumb/256.png", ОТВ Екатеринбург http://kt-tv.ru/iptv/channels.php?channel=256 #EXTINF:580 censored="0" id="vsetv_1811" tvg-id="1811" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="Крик ТВ" tvg-logo="http://kt-tv.ru/tvthumb/252.png", Крик ТВ http://kt-tv.ru/iptv/channels.php?channel=252 #EXTINF:640 censored="0" id="vsetv_1130" tvg-id="1130" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Че Гонг" tvg-logo="http://kt-tv.ru/tvthumb/1130.png", Че Гонг http://kt-tv.ru/iptv/channels.php?channel=1130 #EXTINF:650 censored="0" id="vsetv_56" tvg-id="56" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Че" tvg-logo="http://kt-tv.ru/tvthumb/59.png", Че http://kt-tv.ru/iptv/channels.php?channel=59 #EXTINF:655 censored="0" id="vsetv_10001314" tvg-id="10001314" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Тайна" tvg-logo="http://kt-tv.ru/tvthumb/1314.png", Тайна http://kt-tv.ru/iptv/channels.php?channel=1314 #EXTINF:660 censored="0" id="vsetv_653" tvg-id="653" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="360°" tvg-logo="http://kt-tv.ru/tvthumb/1027.png", 360° http://kt-tv.ru/iptv/channels.php?channel=1027 #EXTINF:670 censored="0" id="vsetv_653" tvg-id="653" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="360° HD" tvg-logo="http://kt-tv.ru/tvthumb/391.png", 360° HD http://kt-tv.ru/iptv/channels.php?channel=391 #EXTINF:680 censored="0" id="vsetv_10001162" tvg-id="10001162" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="360 Новости" tvg-logo="http://kt-tv.ru/tvthumb/1162.png", 360 Новости http://kt-tv.ru/iptv/channels.php?channel=1162 #EXTINF:690 censored="0" id="vsetv_10001146" tvg-id="10001146" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Продвижение КУ" tvg-logo="http://kt-tv.ru/tvthumb/1146.png", Продвижение Гонг http://kt-tv.ru/iptv/channels.php?channel=1146 #EXTINF:730 censored="0" id="vsetv_681" tvg-id="681" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="8 канал" tvg-logo="http://kt-tv.ru/tvthumb/62.png", 8 канал http://kt-tv.ru/iptv/channels.php?channel=62 #EXTINF:740 censored="0" id="vsetv_838" tvg-id="838" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Мир 24" tvg-logo="http://kt-tv.ru/tvthumb/253.png", Мир 24 http://kt-tv.ru/iptv/channels.php?channel=253 #EXTINF:760 censored="0" id="vsetv_694" tvg-id="694" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ТБН Россия" tvg-logo="http://kt-tv.ru/tvthumb/261.png", ТБН Россия http://kt-tv.ru/iptv/channels.php?channel=261 #EXTINF:770 censored="0" id="vsetv_1000441" tvg-id="1000441" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Калейдоскоп ТВ" tvg-logo="http://kt-tv.ru/tvthumb/441.png", Калейдоскоп ТВ http://kt-tv.ru/iptv/channels.php?channel=441 #EXTINF:780 censored="0" id="vsetv_1714" tvg-id="1714" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Теледом HD" tvg-logo="http://kt-tv.ru/tvthumb/292.png", Теледом HD http://kt-tv.ru/iptv/channels.php?channel=292 #EXTINF:790 censored="0" id="vsetv_1011" tvg-id="1011" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Точка ТВ" tvg-logo="http://kt-tv.ru/tvthumb/440.png", Точка ТВ http://kt-tv.ru/iptv/channels.php?channel=440 #EXTINF:805 censored="0" id="vsetv_10001373" tvg-id="10001373" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="Silkway Cinema HD" tvg-logo="http://kt-tv.ru/tvthumb/1373.png", Silkway Cinema HD http://kt-tv.ru/iptv/channels.php?channel=1373 #EXTINF:814 censored="0" id="vsetv_10001300" tvg-id="10001300" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="ТИВИСИ HD" tvg-logo="http://kt-tv.ru/tvthumb/1300.png", ТИВИСИ HD http://kt-tv.ru/iptv/channels.php?channel=1300 #EXTINF:840 censored="0" id="vsetv_690" tvg-id="690" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="Санкт-Петербург" tvg-logo="http://kt-tv.ru/tvthumb/236.png", Санкт-Петербург http://kt-tv.ru/iptv/channels.php?channel=236 #EXTINF:850 censored="0" id="vsetv_123" tvg-id="123" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Москва-24" tvg-logo="http://kt-tv.ru/tvthumb/54.png", Москва 24 http://kt-tv.ru/iptv/channels.php?channel=54 #EXTINF:860 censored="0" id="vsetv_967" tvg-id="967" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Вместе-РФ" tvg-logo="http://kt-tv.ru/tvthumb/352.png", Вместе-РФ http://kt-tv.ru/iptv/channels.php?channel=352 #EXTINF:1010 censored="0" id="vsetv_458" tvg-id="458" group_id="6" group-title="Кинофильмы" tvg-shift="0" tvg-name="НТВ-Хит" tvg-logo="http://kt-tv.ru/tvthumb/ntv-hit.png", НТВ-Хит http://kt-tv.ru/iptv/channels.php?channel=1183 #EXTINF:1290 censored="0" id="vsetv_829" tvg-id="829" group_id="14" group-title="Увлечения" tvg-shift="0" tvg-name="Театр" tvg-logo="http://kt-tv.ru/tvthumb/354.png", Театр http://kt-tv.ru/iptv/channels.php?channel=354 #EXTINF:1330 censored="0" id="vsetv_952" tvg-id="952" group_id="6" group-title="Кинофильмы" tvg-shift="0" tvg-name="СТС Love" tvg-logo="http://kt-tv.ru/tvthumb/357.png", СТС Love http://kt-tv.ru/iptv/channels.php?channel=357 #EXTINF:1350 censored="0" id="vsetv_10001157" tvg-id="10001157" group_id="6" group-title="Кинофильмы" tvg-shift="0" tvg-name="НТВ Сериал" tvg-logo="http://kt-tv.ru/tvthumb/1157.png", НТВ Сериал http://kt-tv.ru/iptv/channels.php?channel=1157 #EXTINF:1573 censored="0" id="vsetv_10001382" tvg-id="10001382" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="КиноМульт" tvg-logo="http://kt-tv.ru/tvthumb/1382.png", КиноМульт http://kt-tv.ru/iptv/channels.php?channel=1382 #EXTINF:1575 censored="0" id="vsetv_1299" tvg-id="1299" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="СуперГерои" tvg-logo="http://kt-tv.ru/tvthumb/1299.png", СуперГерои http://kt-tv.ru/iptv/channels.php?channel=1299 #EXTINF:1590 censored="0" id="vsetv_1175" tvg-id="1175" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="СТС Kids HD" tvg-logo="http://kt-tv.ru/tvthumb/1175.png", СТС Kids HD http://kt-tv.ru/iptv/channels.php?channel=1175 #EXTINF:1615 censored="0" id="vsetv_10001337" tvg-id="10001337" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Солнце" tvg-logo="http://kt-tv.ru/tvthumb/1337.png", Солнце http://kt-tv.ru/iptv/channels.php?channel=1337 #EXTINF:1620 censored="0" id="vsetv_1047" tvg-id="1047" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Рыжий" tvg-logo="http://kt-tv.ru/tvthumb/281.png", Рыжий http://kt-tv.ru/iptv/channels.php?channel=281 #EXTINF:1640 censored="0" id="vsetv_246" tvg-id="246" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Уникум" tvg-logo="http://kt-tv.ru/tvthumb/95.png", Уникум http://kt-tv.ru/iptv/channels.php?channel=95 #EXTINF:1655 censored="0" id="vsetv_10001220" tvg-id="10001220" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Шаян ТВ" tvg-logo="http://kt-tv.ru/tvthumb/1220.png", Шаян ТВ http://kt-tv.ru/iptv/channels.php?channel=1220 #EXTINF:1660 censored="0" id="vsetv_692" tvg-id="692" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Открытый Мир" tvg-logo="http://kt-tv.ru/tvthumb/467.png", Открытый Мир http://kt-tv.ru/iptv/channels.php?channel=467 #EXTINF:1690 censored="0" id="vsetv_1000469" tvg-id="1000469" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Крым 24" tvg-logo="http://kt-tv.ru/tvthumb/469.png", Крым 24 http://kt-tv.ru/iptv/channels.php?channel=469 #EXTINF:1760 censored="0" id="vsetv_1801" tvg-id="1801" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Три Ангела" tvg-logo="http://kt-tv.ru/tvthumb/471.png", Три Ангела http://kt-tv.ru/iptv/channels.php?channel=471 #EXTINF:1770 censored="0" id="vsetv_10001173" tvg-id="10001173" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Мультиландия" tvg-logo="http://kt-tv.ru/tvthumb/1173.png", Мультиландия http://kt-tv.ru/iptv/channels.php?channel=1173 #EXTINF:1790 censored="0" id="vsetv_1059" tvg-id="1059" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Ani" tvg-logo="http://kt-tv.ru/tvthumb/397.png", Ani http://kt-tv.ru/iptv/channels.php?channel=397 #EXTINF:1830 censored="0" id="vsetv_1000997" tvg-id="1000997" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Известия" tvg-logo="http://kt-tv.ru/tvthumb/997.png", Известия HD http://kt-tv.ru/iptv/channels.php?channel=997 #EXTINF:1835 censored="0" id="vsetv_10001312" tvg-id="10001312" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Соловьев Live" tvg-logo="http://kt-tv.ru/tvthumb/1312.png", Соловьев Live http://kt-tv.ru/iptv/channels.php?channel=1312 #EXTINF:1860 censored="0" id="vsetv_733" tvg-id="733" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Доверие" tvg-logo="http://kt-tv.ru/tvthumb/458.png", Москва Доверие http://kt-tv.ru/iptv/channels.php?channel=458 #EXTINF:1910 censored="0" id="vsetv_10001022" tvg-id="10001022" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Мультимузыка" tvg-logo="http://kt-tv.ru/tvthumb/1022.png", Мультимузыка http://kt-tv.ru/iptv/channels.php?channel=1022 #EXTINF:1940 censored="0" id="vsetv_781" tvg-id="781" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Про Бизнес" tvg-logo="http://kt-tv.ru/tvthumb/468.png", Про Бизнес http://kt-tv.ru/iptv/channels.php?channel=468 #EXTINF:2010 censored="0" id="vsetv_1472" tvg-id="1472" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Тлум HD" tvg-logo="http://kt-tv.ru/tvthumb/488.png", Мульт HD http://kt-tv.ru/iptv/channels.php?channel=488 #EXTINF:2020 censored="0" id="vsetv_10001009" tvg-id="10001009" group_id="4" group-title="Детям" tvg-shift="0" tvg-name="Смайлик" tvg-logo="http://kt-tv.ru/tvthumb/1009.png", Смайлик http://kt-tv.ru/iptv/channels.php?channel=1009 #EXTINF:2035 censored="0" id="vsetv_10001303" tvg-id="10001303" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Центральное ТВ" tvg-logo="http://kt-tv.ru/tvthumb/1303.png", Центральное ТВ http://kt-tv.ru/iptv/channels.php?channel=1303 #EXTINF:2050 censored="0" id="vsetv_341" tvg-id="341" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="2х2" tvg-logo="http://kt-tv.ru/tvthumb/105.png", 2x2 http://kt-tv.ru/iptv/channels.php?channel=105 #EXTINF:2090 censored="0" id="vsetv_476" tvg-id="476" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="ТНТ-Comedy" tvg-logo="http://kt-tv.ru/tvthumb/106.png", ТНТ4 (ТНТ-Comedy) http://kt-tv.ru/iptv/channels.php?channel=106 #EXTINF:2100 censored="0" id="vsetv_10001156" tvg-id="10001156" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="7TV" tvg-logo="http://kt-tv.ru/tvthumb/1156.png", 7TV http://kt-tv.ru/iptv/channels.php?channel=1156 #EXTINF:2115 censored="0" id="vsetv_10001323" tvg-id="10001323" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Мой мир" tvg-logo="http://kt-tv.ru/tvthumb/1323.png", Мой мир http://kt-tv.ru/iptv/channels.php?channel=1323 #EXTINF:2125 censored="0" id="vsetv_10001326" tvg-id="10001326" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Leomax24" tvg-logo="http://kt-tv.ru/tvthumb/1326.png", Leomax24 http://kt-tv.ru/iptv/channels.php?channel=1326 #EXTINF:2130 censored="0" id="vsetv_1000473" tvg-id="1000473" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Shop & Show" tvg-logo="http://kt-tv.ru/tvthumb/473.png", Shop & Show http://kt-tv.ru/iptv/channels.php?channel=473 #EXTINF:2180 censored="0" id="vsetv_822" tvg-id="822" group_id="13" group-title="Спортивные" tvg-shift="0" tvg-name="Мир баскетбола" tvg-logo="http://kt-tv.ru/tvthumb/1211.png", Мир баскетбола HD http://kt-tv.ru/iptv/channels.php?channel=1211 #EXTINF:2610 censored="0" id="vsetv_10001159" tvg-id="10001159" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="НТВ Право" tvg-logo="http://kt-tv.ru/tvthumb/1159.png", НТВ Право http://kt-tv.ru/iptv/channels.php?channel=1159 #EXTINF:2630 censored="0" id="vsetv_146" tvg-id="146" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="РБК ТВ" tvg-logo="http://kt-tv.ru/tvthumb/134.png", РБК http://kt-tv.ru/iptv/channels.php?channel=134 #EXTINF:2635 censored="0" id="vsetv_10001324" tvg-id="10001324" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="РБК ТВ HD" tvg-logo="http://kt-tv.ru/tvthumb/1324.png", РБК ТВ HD http://kt-tv.ru/iptv/channels.php?channel=1324 #EXTINF:2650 censored="0" id="vsetv_1008" tvg-id="1008" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Пёс и Ко" tvg-logo="http://kt-tv.ru/tvthumb/1008.png", Пёс и Ко http://kt-tv.ru/iptv/channels.php?channel=1008 #EXTINF:2660 censored="0" id="vsetv_1000550" tvg-id="1000550" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="78" tvg-logo="http://kt-tv.ru/tvthumb/550.png", 78 http://kt-tv.ru/iptv/channels.php?channel=550 #EXTINF:2700 censored="0" id="vsetv_10001013" tvg-id="10001013" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="о2тв" tvg-logo="http://kt-tv.ru/tvthumb/1013.png", о2тв http://kt-tv.ru/iptv/channels.php?channel=1013 #EXTINF:2720 censored="0" id="vsetv_1126" tvg-id="1126" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Gagsnetwork" tvg-logo="http://kt-tv.ru/tvthumb/1212.png", Gagsnetwork http://kt-tv.ru/iptv/channels.php?channel=1212 #EXTINF:2755 censored="0" id="vsetv_10001383" tvg-id="10001383" group_id="5" group-title="История и Религия" tvg-shift="0" tvg-name="Неизвестная Россия" tvg-logo="http://kt-tv.ru/tvthumb/1383.png", Неизвестная Россия http://kt-tv.ru/iptv/channels.php?channel=1383 #EXTINF:2780 censored="0" id="vsetv_350" tvg-id="350" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Совершенно секретно" tvg-logo="http://kt-tv.ru/tvthumb/383.png", Совершенно секретно http://kt-tv.ru/iptv/channels.php?channel=383 #EXTINF:2790 censored="0" id="vsetv_10001158" tvg-id="10001158" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Ратник HD" tvg-logo="http://kt-tv.ru/tvthumb/1158.png", Ратник HD http://kt-tv.ru/iptv/channels.php?channel=1158 #EXTINF:2800 censored="0" id="vsetv_301" tvg-id="301" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Russia Today" tvg-logo="http://kt-tv.ru/tvthumb/142.png", Russia Today http://kt-tv.ru/iptv/channels.php?channel=142 #EXTINF:2810 censored="0" id="vsetv_851" tvg-id="851" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Russia Today HD" tvg-logo="http://kt-tv.ru/tvthumb/332.png", Russia Today HD http://kt-tv.ru/iptv/channels.php?channel=332 #EXTINF:2820 censored="0" id="vsetv_788" tvg-id="788" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="RT Д" tvg-logo="http://kt-tv.ru/tvthumb/143.png", RT Д HD http://kt-tv.ru/iptv/channels.php?channel=143 #EXTINF:2980 censored="0" id="vsetv_2015" tvg-id="2015" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Красная линия" tvg-logo="http://kt-tv.ru/tvthumb/439.png", Красная линия http://kt-tv.ru/iptv/channels.php?channel=439 #EXTINF:2985 censored="0" id="vsetv_10001350" tvg-id="10001350" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Дума ТВ HD" tvg-logo="http://kt-tv.ru/tvthumb/1350.png", Дума ТВ HD http://kt-tv.ru/iptv/channels.php?channel=1350 #EXTINF:2990 censored="0" id="vsetv_1921" tvg-id="1921" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="ЛДПР ТВ" tvg-logo="http://kt-tv.ru/tvthumb/322.png", ЛДПР ТВ http://kt-tv.ru/iptv/channels.php?channel=322 #EXTINF:3000 censored="0" id="vsetv_235" tvg-id="235" group_id="5" group-title="История и Религия" tvg-shift="0" tvg-name="Союз (Екатеринбург)" tvg-logo="http://kt-tv.ru/tvthumb/154.png", Союз HD http://kt-tv.ru/iptv/channels.php?channel=154 #EXTINF:3040 censored="0" id="vsetv_231" tvg-id="231" group_id="8" group-title="Новости и бизнес" tvg-shift="0" tvg-name="Беларусь 24" tvg-logo="http://kt-tv.ru/tvthumb/560.png", Беларусь 24 http://kt-tv.ru/iptv/channels.php?channel=560 #EXTINF:3060 censored="0" id="vsetv_145" tvg-id="145" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="ТНВ Татарстан" tvg-logo="http://kt-tv.ru/tvthumb/267.png", ТНВ Татарстан http://kt-tv.ru/iptv/channels.php?channel=267 #EXTINF:3064 censored="0" id="vsetv_10001295" tvg-id="10001295" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="Миллет HD" tvg-logo="http://kt-tv.ru/tvthumb/1295.png", Миллет HD http://kt-tv.ru/iptv/channels.php?channel=1295 #EXTINF:3066 censored="0" id="vsetv_10001385" tvg-id="10001385" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="24KZ" tvg-logo="http://kt-tv.ru/tvthumb/1385.png", 24KZ http://kt-tv.ru/iptv/channels.php?channel=1385 #EXTINF:3070 censored="0" id="vsetv_781" tvg-id="781" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="ТНВ-Планета" tvg-logo="http://kt-tv.ru/tvthumb/157.png", ТНВ-Планета http://kt-tv.ru/iptv/channels.php?channel=157 #EXTINF:3090 censored="0" id="vsetv_697" tvg-id="697" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="Arirang" tvg-logo="http://kt-tv.ru/tvthumb/282.png", Arirang http://kt-tv.ru/iptv/channels.php?channel=282 #EXTINF:3095 censored="0" id="vsetv_378" tvg-id="378" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="Аист" tvg-logo="http://kt-tv.ru/tvthumb/477.png", Аист http://kt-tv.ru/iptv/channels.php?channel=477 #EXTINF:3100 censored="0" id="vsetv_491" tvg-id="491" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="ТРО" tvg-logo="http://kt-tv.ru/tvthumb/159.png", БелРос http://kt-tv.ru/iptv/channels.php?channel=159 #EXTINF:3235 censored="0" id="vsetv_10001384" tvg-id="10001384" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="BRIDGE Шлягер" tvg-logo="http://kt-tv.ru/tvthumb/1384.png", BRIDGE Шлягер http://kt-tv.ru/iptv/channels.php?channel=1384 #EXTINF:3240 censored="0" id="vsetv_409" tvg-id="409" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Bridge" tvg-logo="http://kt-tv.ru/tvthumb/490.png", Bridge Deluxe http://kt-tv.ru/iptv/channels.php?channel=490 #EXTINF:3330 censored="0" id="vsetv_682" tvg-id="682" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Europa Plus TV" tvg-logo="http://kt-tv.ru/tvthumb/167.png", Europa Plus TV HD http://kt-tv.ru/iptv/channels.php?channel=167 #EXTINF:3360 censored="0" id="vsetv_316" tvg-id="316" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="ТНТ Misuc" tvg-logo="http://kt-tv.ru/tvthumb/169.png", ТНТ Music http://kt-tv.ru/iptv/channels.php?channel=169 #EXTINF:3410 censored="0" id="vsetv_10001171" tvg-id="10001171" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="9 Волна" tvg-logo="http://kt-tv.ru/tvthumb/1171.png", 9 Волна http://kt-tv.ru/iptv/channels.php?channel=1171 #EXTINF:3442 censored="0" id="vsetv_10001321" tvg-id="10001321" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Music Box Gold" tvg-logo="http://kt-tv.ru/tvthumb/1321.png", Music Box Gold http://kt-tv.ru/iptv/channels.php?channel=1321 #EXTINF:3450 censored="0" id="vsetv_411" tvg-id="411" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Music Box RU" tvg-logo="http://kt-tv.ru/tvthumb/174.png", Music Box RU http://kt-tv.ru/iptv/channels.php?channel=174 #EXTINF:3470 censored="0" id="vsetv_49" tvg-id="49" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Ю" tvg-logo="http://kt-tv.ru/tvthumb/269.png", Ю http://kt-tv.ru/iptv/channels.php?channel=269 #EXTINF:3490 censored="0" id="vsetv_409" tvg-id="409" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Bridge TV" tvg-logo="http://kt-tv.ru/tvthumb/176.png", Bridge TV http://kt-tv.ru/iptv/channels.php?channel=176 #EXTINF:3500 censored="0" id="vsetv_668" tvg-id="668" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Bridge TV Русский Хит" tvg-logo="http://kt-tv.ru/tvthumb/177.png", Bridge TV Русский Хит http://kt-tv.ru/iptv/channels.php?channel=177 #EXTINF:3510 censored="0" id="vsetv_826" tvg-id="826" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="BRIDGE TV DANCE" tvg-logo="http://kt-tv.ru/tvthumb/285.png", Bridge TV Hits http://kt-tv.ru/iptv/channels.php?channel=285 #EXTINF:3520 censored="0" id="vsetv_1003" tvg-id="1003" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="BRIDGE TV CLASSIC" tvg-logo="http://kt-tv.ru/tvthumb/991.png", BRIDGE TV CLASSIC http://kt-tv.ru/iptv/channels.php?channel=991 #EXTINF:3610 censored="0" id="vsetv_10001154" tvg-id="10001154" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="НТВ Стиль" tvg-logo="http://kt-tv.ru/tvthumb/1154.png", НТВ Стиль http://kt-tv.ru/iptv/channels.php?channel=1154 #EXTINF:3820 censored="0" id="vsetv_1136" tvg-id="1136" group_id="10" group-title="Путешествия и природа" tvg-shift="0" tvg-name="Поехали!" tvg-logo="http://kt-tv.ru/tvthumb/1136.png", Поехали! http://kt-tv.ru/iptv/channels.php?channel=1136 #EXTINF:3840 censored="0" id="vsetv_10001150" tvg-id="10001150" group_id="10" group-title="Путешествия и природа" tvg-shift="0" tvg-name="Глазами туриста HD" tvg-logo="http://kt-tv.ru/tvthumb/1150.png", Глазами туриста HD http://kt-tv.ru/iptv/channels.php?channel=1150 #EXTINF:3850 censored="0" id="vsetv_900" tvg-id="900" group_id="10" group-title="Путешествия и природа" tvg-shift="0" tvg-name="RTG HD" tvg-logo="http://kt-tv.ru/tvthumb/243.png", RTG HD http://kt-tv.ru/iptv/channels.php?channel=243 #EXTINF:3920 censored="0" id="vsetv_10001145" tvg-id="10001145" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Broken Screen" tvg-logo="http://kt-tv.ru/tvthumb/1145.png", Broken Screen http://kt-tv.ru/iptv/channels.php?channel=1145 #EXTINF:3990 censored="0" id="vsetv_10001051" tvg-id="10001051" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Супер" tvg-logo="http://kt-tv.ru/tvthumb/1051.png", Суббота! http://kt-tv.ru/iptv/channels.php?channel=1051 #EXTINF:4090 censored="0" id="vsetv_1102" tvg-id="1102" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Живая природа HD" tvg-logo="http://kt-tv.ru/tvthumb/399.png", Живая природа HD http://kt-tv.ru/iptv/channels.php?channel=399 #EXTINF:4220 censored="0" id="vsetv_10001011" tvg-id="10001011" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Большая Азия" tvg-logo="http://kt-tv.ru/tvthumb/1011.png", Большая Азия HD http://kt-tv.ru/iptv/channels.php?channel=1011 #EXTINF:4230 censored="0" id="vsetv_1000757" tvg-id="1000757" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Министерство идей" tvg-logo="http://kt-tv.ru/tvthumb/757.png", Министерство идей http://kt-tv.ru/iptv/channels.php?channel=757 #EXTINF:4300 censored="0" id="vsetv_741" tvg-id="741" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Нано ТВ" tvg-logo="http://kt-tv.ru/tvthumb/208.png", Нано ТВ http://kt-tv.ru/iptv/channels.php?channel=208 #EXTINF:4302 censored="0" id="vsetv_10001155" tvg-id="10001155" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Нано HD" tvg-logo="http://kt-tv.ru/tvthumb/1155.png", Нано HD http://kt-tv.ru/iptv/channels.php?channel=1155 #EXTINF:4330 censored="0" id="vsetv_1017" tvg-id="1017" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="ЕГЭ ТВ" tvg-logo="http://kt-tv.ru/tvthumb/356.png", ЕГЭ ТВ http://kt-tv.ru/iptv/channels.php?channel=356 #EXTINF:4350 censored="0" id="vsetv_774" tvg-id="774" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Просвещение" tvg-logo="http://kt-tv.ru/tvthumb/257.png", Просвещение http://kt-tv.ru/iptv/channels.php?channel=257 #EXTINF:4360 censored="0" id="vsetv_248" tvg-id="248" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="HD Media" tvg-logo="http://kt-tv.ru/tvthumb/240.png", HD Media http://kt-tv.ru/iptv/channels.php?channel=240 #EXTINF:4470 censored="0" id="vsetv_1000838" tvg-id="1000838" group_id="12" group-title="Региональные и зарубежные" tvg-shift="0" tvg-name="KBS World HD" tvg-logo="http://kt-tv.ru/tvthumb/838.png", KBS World HD http://kt-tv.ru/iptv/channels.php?channel=838 #EXTINF:4550 censored="0" id="vsetv_10001015" tvg-id="10001015" group_id="15" group-title="Эфирные" tvg-shift="0" tvg-name="РЖД ТВ HD" tvg-logo="http://kt-tv.ru/tvthumb/1015.png", РЖД ТВ HD http://kt-tv.ru/iptv/channels.php?channel=1015 #EXTINF:4570 censored="0" id="vsetv_1000625" tvg-id="1000625" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Ювелирочка" tvg-logo="http://kt-tv.ru/tvthumb/625.png", Ювелирочка http://kt-tv.ru/iptv/channels.php?channel=625 #EXTINF:4590 censored="0" id="vsetv_449" tvg-id="449" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Shopping Live" tvg-logo="http://kt-tv.ru/tvthumb/449.png", Shopping Live http://kt-tv.ru/iptv/channels.php?channel=449 #EXTINF:4650 censored="0" id="vsetv_384" tvg-id="384" group_id="11" group-title="Развлечение" tvg-shift="0" tvg-name="Жара" tvg-logo="http://kt-tv.ru/tvthumb/994.png", Жара http://kt-tv.ru/iptv/channels.php?channel=994 #EXTINF:4670 censored="0" id="vsetv_394" tvg-id="394" group_id="14" group-title="Увлечения" tvg-shift="0" tvg-name="Мама" tvg-logo="http://kt-tv.ru/tvthumb/218.png", Мама http://kt-tv.ru/iptv/channels.php?channel=218 #EXTINF:4690 censored="0" id="vsetv_693" tvg-id="693" group_id="14" group-title="Увлечения" tvg-shift="0" tvg-name="Радость моя" tvg-logo="http://kt-tv.ru/tvthumb/219.png", Радость моя http://kt-tv.ru/iptv/channels.php?channel=219 #EXTINF:4740 censored="0" id="vsetv_946" tvg-id="946" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="Luxury World" tvg-logo="http://kt-tv.ru/tvthumb/317.png", Luxury http://kt-tv.ru/iptv/channels.php?channel=317 #EXTINF:4770 censored="0" id="vsetv_1961" tvg-id="1961" group_id="7" group-title="Музыка и стиль" tvg-shift="0" tvg-name="TVMChannel" tvg-logo="http://kt-tv.ru/tvthumb/996.png", TVMChannel http://kt-tv.ru/iptv/channels.php?channel=996 #EXTINF:4810 censored="0" id="vsetv_10001017" tvg-id="10001017" group_id="9" group-title="Познавательные" tvg-shift="0" tvg-name="Первый Вегетарианский" tvg-logo="http://kt-tv.ru/tvthumb/1017.png", Первый Вегетарианский http://kt-tv.ru/iptv/channels.php?channel=1017 #EXTINF:4850 censored="0" id="vsetv_10001197" tvg-id="10001197" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Waves HD" tvg-logo="http://kt-tv.ru/tvthumb/waves.png", Waves HD http://kt-tv.ru/iptv/channels.php?channel=1197 #EXTINF:4860 censored="0" id="vsetv_2242" tvg-id="2242" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Fireplace HD" tvg-logo="http://kt-tv.ru/tvthumb/fireplace.png", Fireplace HD http://kt-tv.ru/iptv/channels.php?channel=1196 #EXTINF:4870 censored="0" id="vsetv_2243" tvg-id="2243" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Fishy HD" tvg-logo="http://kt-tv.ru/tvthumb/fishy.png", Fishy HD http://kt-tv.ru/iptv/channels.php?channel=1195 #EXTINF:4910 censored="0" id="vsetv_10001030" tvg-id="10001030" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Водопад в джунглях" tvg-logo="http://kt-tv.ru/tvthumb/1030.png", Водопад в джунглях http://kt-tv.ru/iptv/channels.php?channel=1030 #EXTINF:4925 censored="0" id="vsetv_10001336" tvg-id="10001336" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Краснодар-Сочи" tvg-logo="http://kt-tv.ru/tvthumb/1336.png", Краснодар-Сочи http://kt-tv.ru/iptv/channels.php?channel=1336 #EXTINF:4930 censored="0" id="vsetv_10001028" tvg-id="10001028" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Костёр у реки" tvg-logo="http://kt-tv.ru/tvthumb/1028.png", Костёр у реки http://kt-tv.ru/iptv/channels.php?channel=1028 #EXTINF:4940 censored="0" id="vsetv_10001031" tvg-id="10001031" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Мост под дождём" tvg-logo="http://kt-tv.ru/tvthumb/1031.png", Мост под дождём http://kt-tv.ru/iptv/channels.php?channel=1031 #EXTINF:4950 censored="0" id="vsetv_1000998" tvg-id="1000998" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Камин" tvg-logo="http://kt-tv.ru/tvthumb/998.png", Камин http://kt-tv.ru/iptv/channels.php?channel=998 #EXTINF:4960 censored="0" id="vsetv_10001029" tvg-id="10001029" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Ручей в горах" tvg-logo="http://kt-tv.ru/tvthumb/1029.png", Ручей в горах http://kt-tv.ru/iptv/channels.php?channel=1029 #EXTINF:4980 censored="0" id="vsetv_10001198" tvg-id="10001198" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Nick Offerman`s Yule Log" tvg-logo="http://kt-tv.ru/tvthumb/offerman.png", Nick Offerman`s Yule Log http://kt-tv.ru/iptv/channels.php?channel=1198 #EXTINF:4985 censored="0" id="vsetv_10001345" tvg-id="10001345" group_id="16" group-title="Релаксация" tvg-shift="0" tvg-name="Гипно ТВ" tvg-logo="http://kt-tv.ru/tvthumb/1345.png", Гипно ТВ http://kt-tv.ru/iptv/channels.php?channel=1345 #EXTINF:6000 censored="0" id="vsetv_10001221" tvg-id="10001221" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="пр. Победы - ул. Павлова" tvg-logo="http://kt-tv.ru/tvthumb/1221.png", пр. Победы - ул. Павлова http://kt-tv.ru/iptv/channels.php?channel=1221 #EXTINF:6010 censored="0" id="vsetv_10001222" tvg-id="10001222" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="1-ая Синарская (спуск с моста)" tvg-logo="http://kt-tv.ru/tvthumb/1222.png", 1-ая Синарская (спуск с моста) http://kt-tv.ru/iptv/channels.php?channel=1222 #EXTINF:6020 censored="0" id="vsetv_10001223" tvg-id="10001223" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="пр. Победы - ул. Ленина" tvg-logo="http://kt-tv.ru/tvthumb/1223.png", пр. Победы - ул. Ленина http://kt-tv.ru/iptv/channels.php?channel=1223 #EXTINF:6030 censored="0" id="vsetv_10001224" tvg-id="10001224" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Алюминиевая - ул. Калинина" tvg-logo="http://kt-tv.ru/tvthumb/1224.png", ул. Алюминиевая - ул. Калинина http://kt-tv.ru/iptv/channels.php?channel=1224 #EXTINF:6040 censored="0" id="vsetv_10001225" tvg-id="10001225" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Карла Маркса - ул. Кирова" tvg-logo="http://kt-tv.ru/tvthumb/1225.png", ул. Карла Маркса - ул. Кирова http://kt-tv.ru/iptv/channels.php?channel=1225 #EXTINF:6050 censored="0" id="vsetv_10001226" tvg-id="10001226" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Алюминиевая - ул. Челябинская" tvg-logo="http://kt-tv.ru/tvthumb/1226.png", ул. Алюминиевая - ул. Челябинская http://kt-tv.ru/iptv/channels.php?channel=1226 #EXTINF:6060 censored="0" id="vsetv_10001227" tvg-id="10001227" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Площадь Ленинского Комсомола" tvg-logo="http://kt-tv.ru/tvthumb/1227.png", Площадь Ленинского Комсомола http://kt-tv.ru/iptv/channels.php?channel=1227 #EXTINF:6070 censored="0" id="vsetv_10001228" tvg-id="10001228" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Суворова (подъем от Байновского моста)" tvg-logo="http://kt-tv.ru/tvthumb/1228.png", ул. Суворова (подъем от Байновского моста) http://kt-tv.ru/iptv/channels.php?channel=1228 #EXTINF:6080 censored="0" id="vsetv_10001229" tvg-id="10001229" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Байновский мост (ул.Алюминиевая 86)" tvg-logo="http://kt-tv.ru/tvthumb/1229.png", Байновский мост (ул.Алюминиевая 86) http://kt-tv.ru/iptv/channels.php?channel=1229 #EXTINF:6090 censored="0" id="vsetv_10001230" tvg-id="10001230" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Байновский мост (ул.Суворова 9)" tvg-logo="http://kt-tv.ru/tvthumb/1230.png", Байновский мост (ул.Суворова 9) http://kt-tv.ru/iptv/channels.php?channel=1230 #EXTINF:6100 censored="0" id="vsetv_10001231" tvg-id="10001231" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Светофор СинТЗ" tvg-logo="http://kt-tv.ru/tvthumb/1231.png", Светофор СинТЗ http://kt-tv.ru/iptv/channels.php?channel=1231 #EXTINF:6110 censored="0" id="vsetv_10001237" tvg-id="10001237" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Красных Орлов 4 (Березовая роща)" tvg-logo="http://kt-tv.ru/tvthumb/1237.png", ул. Красных Орлов 4 (Березовая роща) http://kt-tv.ru/iptv/channels.php?channel=1237 #EXTINF:6120 censored="0" id="vsetv_10001238" tvg-id="10001238" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="пл. Ленинского Комсомола (фонтан)" tvg-logo="http://kt-tv.ru/tvthumb/1238.png", пл. Ленинского Комсомола (фонтан) http://kt-tv.ru/iptv/channels.php?channel=1238 #EXTINF:6130 censored="0" id="vsetv_10001239" tvg-id="10001239" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Ленина - пер. Санаторный" tvg-logo="http://kt-tv.ru/tvthumb/1239.png", ул. Ленина - пер. Санаторный http://kt-tv.ru/iptv/channels.php?channel=1239 #EXTINF:6140 censored="0" id="vsetv_10001240" tvg-id="10001240" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Пушкина - пр. Победы" tvg-logo="http://kt-tv.ru/tvthumb/1240.png", ул. Пушкина - пр. Победы http://kt-tv.ru/iptv/channels.php?channel=1240 #EXTINF:6150 censored="0" id="vsetv_10001241" tvg-id="10001241" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Добролюбова - пр. Победы" tvg-logo="http://kt-tv.ru/tvthumb/1241.png", ул. Добролюбова - пр. Победы http://kt-tv.ru/iptv/channels.php?channel=1241 #EXTINF:6160 censored="0" id="vsetv_10001242" tvg-id="10001242" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. 4-й Пятилетки - ул. Суворова" tvg-logo="http://kt-tv.ru/tvthumb/1242.png", ул. 4-й Пятилетки - ул. Суворова http://kt-tv.ru/iptv/channels.php?channel=1242 #EXTINF:6162 censored="0" id="vsetv_10001293" tvg-id="10001293" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. 4-ой Пятилетки - ул. Кутузова" tvg-logo="http://kt-tv.ru/tvthumb/1293.png", ул. 4-ой Пятилетки - ул. Кутузова http://kt-tv.ru/iptv/channels.php?channel=1293 #EXTINF:6170 censored="0" id="vsetv_10001243" tvg-id="10001243" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Октябрьская - ул. Суворова" tvg-logo="http://kt-tv.ru/tvthumb/1243.png", ул. Октябрьская - ул. Суворова http://kt-tv.ru/iptv/channels.php?channel=1243 #EXTINF:6180 censored="0" id="vsetv_10001244" tvg-id="10001244" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. К.Маркса - пр. Победы" tvg-logo="http://kt-tv.ru/tvthumb/1244.png", ул. К.Маркса - пр. Победы http://kt-tv.ru/iptv/channels.php?channel=1244 #EXTINF:6190 censored="0" id="vsetv_10001245" tvg-id="10001245" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Ленина - ул. Кадочникова (администрация)" tvg-logo="http://kt-tv.ru/tvthumb/1245.png", ул. Ленина - ул. Кадочникова (администрация) http://kt-tv.ru/iptv/channels.php?channel=1245 #EXTINF:6200 censored="0" id="vsetv_10001246" tvg-id="10001246" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Суворова - ул. Шестакова" tvg-logo="http://kt-tv.ru/tvthumb/1246.png", ул. Суворова - ул. Шестакова http://kt-tv.ru/iptv/channels.php?channel=1246 #EXTINF:6210 censored="0" id="vsetv_10001247" tvg-id="10001247" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Кирова (ТЦ Парус)" tvg-logo="http://kt-tv.ru/tvthumb/1247.png", ул. Кирова (ТЦ Парус) http://kt-tv.ru/iptv/channels.php?channel=1247 #EXTINF:6220 censored="0" id="vsetv_10001248" tvg-id="10001248" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Кунавина - ул. Кирова" tvg-logo="http://kt-tv.ru/tvthumb/1248.png", ул. Кунавина - ул. Кирова http://kt-tv.ru/iptv/channels.php?channel=1248 #EXTINF:6230 censored="0" id="vsetv_10001249" tvg-id="10001249" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Кунавина - пр. Победы" tvg-logo="http://kt-tv.ru/tvthumb/1249.png", ул. Кунавина - пр. Победы http://kt-tv.ru/iptv/channels.php?channel=1249 #EXTINF:6240 censored="0" id="vsetv_10001250" tvg-id="10001250" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Алюминиевая - ул. Уральская" tvg-logo="http://kt-tv.ru/tvthumb/1250.png", ул. Алюминиевая - ул. Уральская http://kt-tv.ru/iptv/channels.php?channel=1250 #EXTINF:6250 censored="0" id="vsetv_10001251" tvg-id="10001251" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="пл. Горького" tvg-logo="http://kt-tv.ru/tvthumb/1251.png", пл. Горького http://kt-tv.ru/iptv/channels.php?channel=1251 #EXTINF:6260 censored="0" id="vsetv_10001252" tvg-id="10001252" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Ленина - ул. Кунавина (БЦ Петровский)" tvg-logo="http://kt-tv.ru/tvthumb/1252.png", ул. Ленина - ул. Кунавина (БЦ Петровский) http://kt-tv.ru/iptv/channels.php?channel=1252 #EXTINF:6270 censored="0" id="vsetv_10001253" tvg-id="10001253" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Ленина - ул. К.Маркса" tvg-logo="http://kt-tv.ru/tvthumb/1253.png", ул. Ленина - ул. К.Маркса http://kt-tv.ru/iptv/channels.php?channel=1253 #EXTINF:6280 censored="0" id="vsetv_10001254" tvg-id="10001254" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Кадочникова - ул. Рябова (Диагн. центр)" tvg-logo="http://kt-tv.ru/tvthumb/1254.png", ул. Кадочникова - ул. Рябова (Диагн. центр) http://kt-tv.ru/iptv/channels.php?channel=1254 #EXTINF:6290 censored="0" id="vsetv_10001255" tvg-id="10001255" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Рябова (Диагностический центр)" tvg-logo="http://kt-tv.ru/tvthumb/1255.png", ул. Рябова (Диагностический центр) http://kt-tv.ru/iptv/channels.php?channel=1255 #EXTINF:6300 censored="0" id="vsetv_10001256" tvg-id="10001256" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Кадочникова - пр. Победы" tvg-logo="http://kt-tv.ru/tvthumb/1256.png", ул. Кадочникова - пр. Победы http://kt-tv.ru/iptv/channels.php?channel=1256 #EXTINF:6310 censored="0" id="vsetv_10001257" tvg-id="10001257" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Суворова - ул. Каменская" tvg-logo="http://kt-tv.ru/tvthumb/1257.png", ул. Суворова - ул. Каменская http://kt-tv.ru/iptv/channels.php?channel=1257 #EXTINF:6320 censored="0" id="vsetv_10001258" tvg-id="10001258" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Байновский мост (ул. Суворова 9)" tvg-logo="http://kt-tv.ru/tvthumb/1258.png", Байновский мост (ул. Суворова 9) http://kt-tv.ru/iptv/channels.php?channel=1258 #EXTINF:6330 censored="0" id="vsetv_10001259" tvg-id="10001259" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Кунавина 6" tvg-logo="http://kt-tv.ru/tvthumb/1259.png", ул. Кунавина 6 http://kt-tv.ru/iptv/channels.php?channel=1259 #EXTINF:6340 censored="0" id="vsetv_10001260" tvg-id="10001260" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Каменская - ул. Кутузова" tvg-logo="http://kt-tv.ru/tvthumb/1260.png", ул. Каменская - ул. Кутузова http://kt-tv.ru/iptv/channels.php?channel=1260 #EXTINF:6350 censored="0" id="vsetv_10001261" tvg-id="10001261" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Бульвар Парижской Коммуны" tvg-logo="http://kt-tv.ru/tvthumb/1261.png", Бульвар Парижской Коммуны http://kt-tv.ru/iptv/channels.php?channel=1261 #EXTINF:6360 censored="0" id="vsetv_10001262" tvg-id="10001262" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Сквер Молодежный" tvg-logo="http://kt-tv.ru/tvthumb/1262.png", Сквер Молодежный http://kt-tv.ru/iptv/channels.php?channel=1262 #EXTINF:6370 censored="0" id="vsetv_10001265" tvg-id="10001265" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Тевосяна - 1" tvg-logo="http://kt-tv.ru/tvthumb/1265.png", ул. Тевосяна - 1 http://kt-tv.ru/iptv/channels.php?channel=1265 #EXTINF:6380 censored="0" id="vsetv_10001264" tvg-id="10001264" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Тевосяна - 2" tvg-logo="http://kt-tv.ru/tvthumb/1264.png", ул. Тевосяна - 2 http://kt-tv.ru/iptv/channels.php?channel=1264 #EXTINF:6400 censored="0" id="vsetv_10001266" tvg-id="10001266" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Озерная 5" tvg-logo="http://kt-tv.ru/tvthumb/1266.png", ул. Озерная 5 http://kt-tv.ru/iptv/channels.php?channel=1266 #EXTINF:6410 censored="0" id="vsetv_10001267" tvg-id="10001267" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ул. Озерная 6" tvg-logo="http://kt-tv.ru/tvthumb/1267.png", ул. Озерная 6 http://kt-tv.ru/iptv/channels.php?channel=1267 #EXTINF:6420 censored="0" id="vsetv_10001268" tvg-id="10001268" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Аллея Славы" tvg-logo="http://kt-tv.ru/tvthumb/1268.png", Аллея Славы http://kt-tv.ru/iptv/channels.php?channel=1268 #EXTINF:6421 censored="0" id="vsetv_10001276" tvg-id="10001276" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Аллея Славы - 2" tvg-logo="http://kt-tv.ru/tvthumb/1276.png", Аллея Славы - 2 http://kt-tv.ru/iptv/channels.php?channel=1276 #EXTINF:6430 censored="0" id="vsetv_10001269" tvg-id="10001269" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Отдыха Космос - 1" tvg-logo="http://kt-tv.ru/tvthumb/1269.png", Парк Отдыха Космос - 1 http://kt-tv.ru/iptv/channels.php?channel=1269 #EXTINF:6440 censored="0" id="vsetv_10001270" tvg-id="10001270" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Отдыха Космос - 2" tvg-logo="http://kt-tv.ru/tvthumb/1270.png", Парк Отдыха Космос - 2 http://kt-tv.ru/iptv/channels.php?channel=1270 #EXTINF:6450 censored="0" id="vsetv_10001271" tvg-id="10001271" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Отдыха Космос - 3" tvg-logo="http://kt-tv.ru/tvthumb/1271.png", Парк Отдыха Космос - 3 http://kt-tv.ru/iptv/channels.php?channel=1271 #EXTINF:6470 censored="0" id="vsetv_10001273" tvg-id="10001273" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Тимирязевский парк - 1" tvg-logo="http://kt-tv.ru/tvthumb/1273.png", Тимирязевский парк - 1 http://kt-tv.ru/iptv/channels.php?channel=1273 #EXTINF:6480 censored="0" id="vsetv_10001274" tvg-id="10001274" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Тимирязевский парк - 2" tvg-logo="http://kt-tv.ru/tvthumb/1274.png", Тимирязевский парк - 2 http://kt-tv.ru/iptv/channels.php?channel=1274 #EXTINF:6490 censored="0" id="vsetv_10001275" tvg-id="10001275" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Фонтан Слонёнок" tvg-logo="http://kt-tv.ru/tvthumb/1275.png", Фонтан Слонёнок http://kt-tv.ru/iptv/channels.php?channel=1275 #EXTINF:6505 censored="0" id="vsetv_10001292" tvg-id="10001292" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Набережная вход" tvg-logo="http://kt-tv.ru/tvthumb/1292.png", Парк Набережная вход http://kt-tv.ru/iptv/channels.php?channel=1292 #EXTINF:6510 censored="0" id="vsetv_10001277" tvg-id="10001277" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Набережная мост" tvg-logo="http://kt-tv.ru/tvthumb/1277.png", Парк Набережная мост http://kt-tv.ru/iptv/channels.php?channel=1277 #EXTINF:6520 censored="0" id="vsetv_10001278" tvg-id="10001278" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Набережная 1" tvg-logo="http://kt-tv.ru/tvthumb/1278.png", Парк Набережная 1 http://kt-tv.ru/iptv/channels.php?channel=1278 #EXTINF:6530 censored="0" id="vsetv_10001279" tvg-id="10001279" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Набережная 2" tvg-logo="http://kt-tv.ru/tvthumb/1279.png", Парк Набережная 2 http://kt-tv.ru/iptv/channels.php?channel=1279 #EXTINF:6540 censored="0" id="vsetv_10001280" tvg-id="10001280" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Набережная 3" tvg-logo="http://kt-tv.ru/tvthumb/1280.png", Парк Набережная 3 http://kt-tv.ru/iptv/channels.php?channel=1280 #EXTINF:6550 censored="0" id="vsetv_10001281" tvg-id="10001281" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Набережная 4" tvg-logo="http://kt-tv.ru/tvthumb/1281.png", Парк Набережная 4 http://kt-tv.ru/iptv/channels.php?channel=1281 #EXTINF:6560 censored="0" id="vsetv_10001282" tvg-id="10001282" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Набережная 5" tvg-logo="http://kt-tv.ru/tvthumb/1282.png", Парк Набережная 5 http://kt-tv.ru/iptv/channels.php?channel=1282 #EXTINF:6570 censored="0" id="vsetv_10001283" tvg-id="10001283" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Парк Набережная 6" tvg-logo="http://kt-tv.ru/tvthumb/1283.png", Парк Набережная 6 http://kt-tv.ru/iptv/channels.php?channel=1283 #EXTINF:6580 censored="0" id="vsetv_10001284" tvg-id="10001284" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Сквер по ул. Тевосяна 1" tvg-logo="http://kt-tv.ru/tvthumb/1284.png", Сквер по ул. Тевосяна 1 http://kt-tv.ru/iptv/channels.php?channel=1284 #EXTINF:6590 censored="0" id="vsetv_10001285" tvg-id="10001285" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Сквер по ул. Тевосяна 2" tvg-logo="http://kt-tv.ru/tvthumb/1285.png", Сквер по ул. Тевосяна 2 http://kt-tv.ru/iptv/channels.php?channel=1285 #EXTINF:6600 censored="0" id="vsetv_10001286" tvg-id="10001286" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Сквер по ул. Тевосяна 3" tvg-logo="http://kt-tv.ru/tvthumb/1286.png", Сквер по ул. Тевосяна 3 http://kt-tv.ru/iptv/channels.php?channel=1286 #EXTINF:6610 censored="0" id="vsetv_10001287" tvg-id="10001287" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Сквер по ул. Тевосяна 4" tvg-logo="http://kt-tv.ru/tvthumb/1287.png", Сквер по ул. Тевосяна 4 http://kt-tv.ru/iptv/channels.php?channel=1287 #EXTINF:6620 censored="0" id="vsetv_10001288" tvg-id="10001288" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Горнолыжная трасса 1" tvg-logo="http://kt-tv.ru/tvthumb/1288.png", Горнолыжная трасса 1 http://kt-tv.ru/iptv/channels.php?channel=1288 #EXTINF:6630 censored="0" id="vsetv_10001289" tvg-id="10001289" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Горнолыжная трасса 2" tvg-logo="http://kt-tv.ru/tvthumb/1289.png", Горнолыжная трасса 2 http://kt-tv.ru/iptv/channels.php?channel=1289 #EXTINF:6640 censored="0" id="vsetv_10001290" tvg-id="10001290" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="ДК Современник" tvg-logo="http://kt-tv.ru/tvthumb/1290.png", ДК Современник http://kt-tv.ru/iptv/channels.php?channel=1290 #EXTINF:6650 censored="0" id="vsetv_10001291" tvg-id="10001291" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Памятник Синарским трубникам" tvg-logo="http://kt-tv.ru/tvthumb/1291.png", Памятник Синарским трубникам http://kt-tv.ru/iptv/channels.php?channel=1291 #EXTINF:6660 censored="0" id="vsetv_10001294" tvg-id="10001294" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Центр Бокса" tvg-logo="http://kt-tv.ru/tvthumb/1294.png", Центр Бокса http://kt-tv.ru/iptv/channels.php?channel=1294 #EXTINF:6670 censored="0" id="vsetv_10001310" tvg-id="10001310" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Московская ЖД переезд" tvg-logo="http://kt-tv.ru/tvthumb/1310.png", Московская ЖД переезд http://kt-tv.ru/iptv/channels.php?channel=1310 #EXTINF:6680 censored="0" id="vsetv_10001342" tvg-id="10001342" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Мемориал Вечный Огонь 1" tvg-logo="http://kt-tv.ru/tvthumb/1342.png", Мемориал Вечный Огонь 1 http://kt-tv.ru/iptv/channels.php?channel=1342 #EXTINF:6690 censored="0" id="vsetv_10001343" tvg-id="10001343" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Мемориал Вечный Огонь 2" tvg-logo="http://kt-tv.ru/tvthumb/1343.png", Мемориал Вечный Огонь 2 http://kt-tv.ru/iptv/channels.php?channel=1343 #EXTINF:6700 censored="0" id="vsetv_10001344" tvg-id="10001344" group_id="17" group-title="Камеры города" tvg-shift="0" tvg-name="Мемориал Вечный Огонь 3" tvg-logo="http://kt-tv.ru/tvthumb/1344.png", Мемориал Вечный Огонь 3 http://kt-tv.ru/iptv/channels.php?channel=1344 #EXTINF:98000 censored="0" id="vsetv_10001232" tvg-id="10001232" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Вести ФМ" tvg-logo="http://kt-tv.ru/tvthumb/1232.png", Вести ФМ http://kt-tv.ru/iptv/channels.php?channel=1232 #EXTINF:98001 censored="0" id="vsetv_10001233" tvg-id="10001233" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Маяк" tvg-logo="http://kt-tv.ru/tvthumb/1233.png", Маяк http://kt-tv.ru/iptv/channels.php?channel=1233 #EXTINF:98002 censored="0" id="vsetv_10001234" tvg-id="10001234" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Радио России" tvg-logo="http://kt-tv.ru/tvthumb/1234.png", Радио России http://kt-tv.ru/iptv/channels.php?channel=1234 #EXTINF:98003 censored="0" id="vsetv_10001338" tvg-id="10001338" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Интерра FM" tvg-logo="http://kt-tv.ru/tvthumb/1338.png", Интерра FM http://kt-tv.ru/iptv/channels.php?channel=1338 #EXTINF:98004 censored="0" id="vsetv_10001339" tvg-id="10001339" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="НАШЕ радио" tvg-logo="http://kt-tv.ru/tvthumb/1339.png", НАШЕ радио http://kt-tv.ru/iptv/channels.php?channel=1339 #EXTINF:98005 censored="0" id="vsetv_10001340" tvg-id="10001340" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="ROCK FM" tvg-logo="http://kt-tv.ru/tvthumb/1340.png", ROCK FM http://kt-tv.ru/iptv/channels.php?channel=1340 #EXTINF:98007 censored="0" id="vsetv_10001371" tvg-id="10001371" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Rock Arsenal" tvg-logo="http://kt-tv.ru/tvthumb/1371.png", Rock Arsenal http://kt-tv.ru/iptv/channels.php?channel=1371 #EXTINF:98009 censored="0" id="vsetv_10001341" tvg-id="10001341" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Радио Атмосфера" tvg-logo="http://kt-tv.ru/tvthumb/1341.png", Радио Атмосфера http://kt-tv.ru/iptv/channels.php?channel=1341 #EXTINF:98110 censored="0" id="vsetv_10001363" tvg-id="10001363" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Радио Релакс" tvg-logo="http://kt-tv.ru/tvthumb/1363.png", Радио Релакс http://kt-tv.ru/iptv/channels.php?channel=1363 #EXTINF:98115 censored="0" id="vsetv_10001364" tvg-id="10001364" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Ваня - НК" tvg-logo="http://kt-tv.ru/tvthumb/1364.png", Ваня - НК http://kt-tv.ru/iptv/channels.php?channel=1364 #EXTINF:98120 censored="0" id="vsetv_10001365" tvg-id="10001365" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Дорожное - НК" tvg-logo="http://kt-tv.ru/tvthumb/1365.png", Дорожное - НК http://kt-tv.ru/iptv/channels.php?channel=1365 #EXTINF:98125 censored="0" id="vsetv_10001366" tvg-id="10001366" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="ДФМ - НК" tvg-logo="http://kt-tv.ru/tvthumb/1366.png", ДФМ - НК http://kt-tv.ru/iptv/channels.php?channel=1366 #EXTINF:98130 censored="0" id="vsetv_10001367" tvg-id="10001367" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Европа Плюс - НК" tvg-logo="http://kt-tv.ru/tvthumb/1367.png", Европа Плюс - НК http://kt-tv.ru/iptv/channels.php?channel=1367 #EXTINF:98135 censored="0" id="vsetv_10001368" tvg-id="10001368" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Монте Карло - НК" tvg-logo="http://kt-tv.ru/tvthumb/1368.png", Монте Карло - НК http://kt-tv.ru/iptv/channels.php?channel=1368 #EXTINF:98140 censored="0" id="vsetv_10001369" tvg-id="10001369" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Новое радио - НК" tvg-logo="http://kt-tv.ru/tvthumb/1369.png", Новое радио - НК http://kt-tv.ru/iptv/channels.php?channel=1369 #EXTINF:98145 censored="0" id="vsetv_10001370" tvg-id="10001370" group_id="18" group-title="Радио" tvg-shift="0" tvg-name="Рекорд - НК" tvg-logo="http://kt-tv.ru/tvthumb/1370.png", Рекорд - НК http://kt-tv.ru/iptv/channels.php?channel=1370
-
+#EXTM3U
+#EXTINF:0, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=40
+#EXTINF:20, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=39
+#EXTINF:30, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=38
+#EXTINF:40, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=43
+#EXTINF:50, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=42
+#EXTINF:60, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=41
+#EXTINF:70, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=454
+#EXTINF:80, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=434
+#EXTINF:90, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1021
+#EXTINF:100, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=333
+#EXTINF:103, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1166
+#EXTINF:110, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=58
+#EXTINF:130, 5 #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=335
+#EXTINF:150, 5 #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=45
+#EXTINF:160, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=763
+#EXTINF:180, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1127
+#EXTINF:200, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=633
+#EXTINF:202, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1347
+#EXTINF:203, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=323
+#EXTINF:210, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=94
+#EXTINF:220, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1128
+#EXTINF:230, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=56
+#EXTINF:240, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=385
+#EXTINF:250, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=53
+#EXTINF:260, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=361
+#EXTINF:280, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=52
+#EXTINF:290, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1125
+#EXTINF:300, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=153
+#EXTINF:310, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=321
+#EXTINF:320, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1318
+#EXTINF:330, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=46
+#EXTINF:340, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1126
+#EXTINF:345, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1317
+#EXTINF:350, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=51
+#EXTINF:360, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=325
+#EXTINF:370, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=60
+#EXTINF:380, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=163
+#EXTINF:390, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=259
+#EXTINF:400, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=484
+#EXTINF:410, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=55
+#EXTINF:420, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=511
+#EXTINF:440, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=63
+#EXTINF:460, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=481
+#EXTINF:490, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=47
+#EXTINF:510, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1124
+#EXTINF:520, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=386
+#EXTINF:523, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=324
+#EXTINF:525, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=50
+#EXTINF:555, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=44
+#EXTINF:556, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=141
+#EXTINF:565, 360 #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1129
+#EXTINF:570, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=256
+#EXTINF:580, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=252
+#EXTINF:640, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1130
+#EXTINF:650, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=59
+#EXTINF:655, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1314
+#EXTINF:660, 360°
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1027
+#EXTINF:670, 360° HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=391
+#EXTINF:680, 360 #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1162
+#EXTINF:690, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1146
+#EXTINF:730, 8 #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=62
+#EXTINF:740, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=253
+#EXTINF:760, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=261
+#EXTINF:770, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=441
+#EXTINF:780, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=292
+#EXTINF:790, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=440
+#EXTINF:805, Silkway Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1373
+#EXTINF:814, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1300
+#EXTINF:840, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=236
+#EXTINF:850, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=54
+#EXTINF:860, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=352
+#EXTINF:1010, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1183
+#EXTINF:1290, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=354
+#EXTINF:1330, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=357
+#EXTINF:1350, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1157
+#EXTINF:1573, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1382
+#EXTINF:1575, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1299
+#EXTINF:1590, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1175
+#EXTINF:1615, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1337
+#EXTINF:1620, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=281
+#EXTINF:1640, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=95
+#EXTINF:1655, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1220
+#EXTINF:1660, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=467
+#EXTINF:1690, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=469
+#EXTINF:1760, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=471
+#EXTINF:1770, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1173
+#EXTINF:1790, Ani
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=397
+#EXTINF:1830, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=997
+#EXTINF:1835, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1312
+#EXTINF:1860, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=458
+#EXTINF:1910, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1022
+#EXTINF:1940, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=468
+#EXTINF:2010, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=488
+#EXTINF:2020, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1009
+#EXTINF:2035, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1303
+#EXTINF:2050, 2x2
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=105
+#EXTINF:2090, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=106
+#EXTINF:2100, 7TV
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1156
+#EXTINF:2115, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1323
+#EXTINF:2125, Leomax24
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1326
+#EXTINF:2130, Shop & Show
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=473
+#EXTINF:2180, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1211
+#EXTINF:2610, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1159
+#EXTINF:2630, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=134
+#EXTINF:2635, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1324
+#EXTINF:2650, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1008
+#EXTINF:2660, 78
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=550
+#EXTINF:2700, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1013
+#EXTINF:2720, Gagsnetwork
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1212
+#EXTINF:2755, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1383
+#EXTINF:2780, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=383
+#EXTINF:2790, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1158
+#EXTINF:2800, Russia Today
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=142
+#EXTINF:2810, Russia Today HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=332
+#EXTINF:2820, RT #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=143
+#EXTINF:2980, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=439
+#EXTINF:2985, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1350
+#EXTINF:2990, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=322
+#EXTINF:3000, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=154
+#EXTINF:3040, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=560
+#EXTINF:3060, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=267
+#EXTINF:3064, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1295
+#EXTINF:3066, 24KZ
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1385
+#EXTINF:3070, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=157
+#EXTINF:3090, Arirang
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=282
+#EXTINF:3095, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=477
+#EXTINF:3100, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=159
+#EXTINF:3235, BRIDGE #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1384
+#EXTINF:3240, Bridge Deluxe
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=490
+#EXTINF:3330, Europa Plus TV HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=167
+#EXTINF:3360, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=169
+#EXTINF:3410, 9 #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1171
+#EXTINF:3442, Music Box Gold
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1321
+#EXTINF:3450, Music Box RU
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=174
+#EXTINF:3470, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=269
+#EXTINF:3490, Bridge TV
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=176
+#EXTINF:3500, Bridge TV #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=177
+#EXTINF:3510, Bridge TV Hits
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=285
+#EXTINF:3520, BRIDGE TV CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=991
+#EXTINF:3610, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1154
+#EXTINF:3820, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1136
+#EXTINF:3840, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1150
+#EXTINF:3850, RTG HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=243
+#EXTINF:3920, Broken Screen
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1145
+#EXTINF:3990, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1051
+#EXTINF:4090, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=399
+#EXTINF:4220, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1011
+#EXTINF:4230, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=757
+#EXTINF:4300, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=208
+#EXTINF:4302, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1155
+#EXTINF:4330, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=356
+#EXTINF:4350, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=257
+#EXTINF:4360, HD Media
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=240
+#EXTINF:4470, KBS World HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=838
+#EXTINF:4550, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1015
+#EXTINF:4570, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=625
+#EXTINF:4590, Shopping Live
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=449
+#EXTINF:4650, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=994
+#EXTINF:4670, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=218
+#EXTINF:4690, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=219
+#EXTINF:4740, Luxury
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=317
+#EXTINF:4770, TVMChannel
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=996
+#EXTINF:4810, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1017
+#EXTINF:4850, Waves HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1197
+#EXTINF:4860, Fireplace HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1196
+#EXTINF:4870, Fishy HD
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1195
+#EXTINF:4910, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1030
+#EXTINF:4925, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1336
+#EXTINF:4930, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1028
+#EXTINF:4940, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1031
+#EXTINF:4950, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=998
+#EXTINF:4960, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1029
+#EXTINF:4980, Nick Offerman`s Yule Log
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1198
+#EXTINF:4985, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1345
+#EXTINF:6000, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1221
+#EXTINF:6010, 1-#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1222
+#EXTINF:6020, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1223
+#EXTINF:6030, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1224
+#EXTINF:6040, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1225
+#EXTINF:6050, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1226
+#EXTINF:6060, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1227
+#EXTINF:6070, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1228
+#EXTINF:6080, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1229
+#EXTINF:6090, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1230
+#EXTINF:6100, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1231
+#EXTINF:6110, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1237
+#EXTINF:6120, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1238
+#EXTINF:6130, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1239
+#EXTINF:6140, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1240
+#EXTINF:6150, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1241
+#EXTINF:6160, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1242
+#EXTINF:6162, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1293
+#EXTINF:6170, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1243
+#EXTINF:6180, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1244
+#EXTINF:6190, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1245
+#EXTINF:6200, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1246
+#EXTINF:6210, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1247
+#EXTINF:6220, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1248
+#EXTINF:6230, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1249
+#EXTINF:6240, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1250
+#EXTINF:6250, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1251
+#EXTINF:6260, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1252
+#EXTINF:6270, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1253
+#EXTINF:6280, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1254
+#EXTINF:6290, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1255
+#EXTINF:6300, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1256
+#EXTINF:6310, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1257
+#EXTINF:6320, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1258
+#EXTINF:6330, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1259
+#EXTINF:6340, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1260
+#EXTINF:6350, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1261
+#EXTINF:6360, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1262
+#EXTINF:6370, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1265
+#EXTINF:6380, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1264
+#EXTINF:6400, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1266
+#EXTINF:6410, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1267
+#EXTINF:6420, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1268
+#EXTINF:6421, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1276
+#EXTINF:6430, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1269
+#EXTINF:6440, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1270
+#EXTINF:6450, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1271
+#EXTINF:6470, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1273
+#EXTINF:6480, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1274
+#EXTINF:6490, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1275
+#EXTINF:6505, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1292
+#EXTINF:6510, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1277
+#EXTINF:6520, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1278
+#EXTINF:6530, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1279
+#EXTINF:6540, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1280
+#EXTINF:6550, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1281
+#EXTINF:6560, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1282
+#EXTINF:6570, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1283
+#EXTINF:6580, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1284
+#EXTINF:6590, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1285
+#EXTINF:6600, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1286
+#EXTINF:6610, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1287
+#EXTINF:6620, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1288
+#EXTINF:6630, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1289
+#EXTINF:6640, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1290
+#EXTINF:6650, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1291
+#EXTINF:6660, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1294
+#EXTINF:6670, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1310
+#EXTINF:6680, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1342
+#EXTINF:6690, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1343
+#EXTINF:6700, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1344
+#EXTINF:98000, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1232
+#EXTINF:98001, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1233
+#EXTINF:98002, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1234
+#EXTINF:98003, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1338
+#EXTINF:98004, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1339
+#EXTINF:98005, ROCK FM
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1340
+#EXTINF:98007, Rock Arsenal
+#EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1371
+#EXTINF:98009, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1341
+#EXTINF:98110, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1363
+#EXTINF:98115, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1364
+#EXTINF:98120, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1365
+#EXTINF:98125, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1366
+#EXTINF:98130, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1367
+#EXTINF:98135, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1368
+#EXTINF:98140, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1369
+#EXTINF:98145, #EXTVLCOPT:network-caching=1000
+http://kt-tv.ru/iptv/channels.php?channel=1370
+#EXTINF:43200,1 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,360° (HD ready)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:0,RTVi (EDTV)
+http://45.143.108.110:2203/RTVi
+#EXTINF:0,TV BRICS (HD)
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:0,https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:0,http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:0,https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0,http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:0,https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:0,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:0,http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:0,https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/9/index.m3u8
+#EXTINF:0,https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/5/index.m3u8
+#EXTINF:0,http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd
+#EXTINF:0,https://cdn2.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:0,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:0,CTV.BY (HD)
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:0,http://62.113.114.202:8000/play/tv3
+#EXTINF:0,http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
+#EXTINF:0,http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:0,360° https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:0,RThttps://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:0,https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:0,https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:0,https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:0,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:0,http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:0,https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
+#EXTINF:0,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:0,https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+#EXTINF:0,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:0,http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:0,https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:0,Life TV (WVGA)
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:0,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/tracks-v1a1/mono.m3u8?hls_proxy_host=5edf215ae950326c87f8788991c1ffc7
+#EXTINF:0,http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:0,http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:0,http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:0,http://hls.tv.3angels.ru/stream/HD/HD.m3u8
+#EXTINF:0,Ani (WSVGA)
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:0,Cartoon Network (EDTV)
+http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+#EXTINF:0,Da Vinci (EDTV)
+http://130.193.73.10:8937/play/a014
+#EXTINF:0,JimJam (EDTV)
+http://91.146.94.234:10000/play/a061
+#EXTINF:0,https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0,http://178.124.152.238:8088/detmir
+#EXTINF:0,http://5.8.58.61:8080/Karusel/index.m3u8
+#EXTINF:0,https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:0,http://31.173.165.29:8000/play/a03q/index.m3u8
+#EXTINF:0,http://188.190.222.53/Mama/index.m3u8
+#EXTINF:0,http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:0,http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:0,http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+#EXTINF:0,http://130.193.73.10:8937/play/a016
+#EXTINF:0,http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:0,http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:0,https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:0,https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:0,http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:0,http://130.193.73.10:8937/play/a015
+#EXTINF:0,2x2 (WSVGA)
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:0,7 TV (EDTV)
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:0,E (HD)
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:0,Gags Network (D1)
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Gagsnetwork
+#EXTINF:0,https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:0,http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:0,http://178.124.152.238:8088/dom
+#EXTINF:0,http://95.156.76.230:33001/udp/230.4.34.6:1234
+#EXTINF:0,http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:0,https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:0,http://130.193.73.10:8937/play/a01s
+#EXTINF:0,http://213.91.178.133:8000/play/a0ay
+#EXTINF:0,http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:0,https://cdn2.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:0,http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd
+#EXTINF:0,http://188.190.222.53/CTC_Love/index.m3u8
+#EXTINF:0,http://188.190.222.53/Super/index.m3u8
+#EXTINF:0,https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:0,http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:0,http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:0,http://195.26.83.96:7005/play/16/index.m3u8
+#EXTINF:0,http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:0,http://188.190.222.53/THT/index.m3u8
+#EXTINF:0,http://188.190.222.53/TNT4/index.m3u8
+#EXTINF:0,https://cdn2.skygo.mn/live/disk1/TNT4/HLS-FTA/TNT4.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s20/03.m3u8
+#EXTINF:0,http://188.190.222.53/Che/index.m3u8
+#EXTINF:0,http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
+#EXTINF:0,1HD (HD)
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:0,Bridge (EDTV)
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:0,Bridge Classic (EDTV)
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:0,Bridge Rock (EDTV)
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:0,Bridge Hits (EDTV)
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:0,Bridge http://5.166.64.254:81/udp/225.0.55.217:1234
+#EXTINF:0,Bridge http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:0,Clubbing TV (HD ready)
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,http://195.26.83.96:7006/play/1/index.m3u8
+#EXTINF:0,Retro Music TV (WSVGA)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Russian MusicBox (HD ready)
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+#EXTINF:0,RU TV (FWVGA)
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:0,RU TV (HD)
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:0,http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/141/index.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_MAIDAN.m3u8
+#EXTINF:0,http://5.8.58.61:8080/muztv/index.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+#EXTINF:0,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:0,http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:0,https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:0,.black (EDTV)
+http://188.190.222.53/Sony_turbo/index.m3u8
+#EXTINF:0,.red (EDTV)
+http://31.173.165.29:8000/play/a04z/index.m3u8
+#EXTINF:0,.sci-fi (EDTV)
+http://130.193.73.10:8937/play/a02q
+#EXTINF:0,1FILMAX http://hls.goodgame.ru:8080/hls/204708.m3u8
+#EXTINF:0,2FILMAX http://hls.goodgame.ru:8080/hls/204717.m3u8
+#EXTINF:0,312 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:0,Amedia 1 (EDTV)
+http://130.193.73.10:8937/play/a02m
+#EXTINF:0,Amedia 2 (FWVGA)
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:0,Amedia Hit (EDTV)
+http://31.173.165.29:8000/play/a053/index.m3u8
+#EXTINF:0,Amedia Premium (HD)
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:0,BollywooD (HD)
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bollywood
+#EXTINF:0,Cinema (EDTV)
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:0,Dizi (EDTV)
+http://194.158.222.36:6086
+#EXTINF:0,FAN (HD)
+http://hlss.goodgame.ru/hls/157239.m3u8
+#EXTINF:0,FlixSnip (EDTV)
+http://130.193.73.10:8937/play/a02r
+#EXTINF:0,Filmbox (EDTV)
+http://130.193.73.10:8937/play/a03s
+#EXTINF:0,Filmbox Arthouse (EDTV)
+http://130.193.73.10:8937/play/a03t
+#EXTINF:0,HollywooD (EDTV)
+http://31.173.165.29:8000/play/a055/index.m3u8
+#EXTINF:0,Kino 24 (EDTV)
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:0,Romance (EDTV)
+http://130.193.73.10:8937/play/a01o
+#EXTINF:0,SHOT TV (EDTV)
+http://109.200.130.123:7537/play/a02b
+#EXTINF:0,Start World (EDTV)
+http://95.156.76.230:33001/udp/230.4.34.66:1234
+#EXTINF:0,Trash (HD ready)
+http://62.113.114.202:8000/play/pop-kino
+#EXTINF:0,Viasat Kino World (EDTV)
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:0,Viju TV1000 (EDTV)
+http://130.193.73.10:8937/play/a02s
+#EXTINF:0,Viju TV1000 Action (EDTV)
+http://130.193.73.10:8937/play/a02t
+#EXTINF:0,Viju TV1000 romantica (HD)
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=Aae2ZXyY0C-jexMsUPkBnw&e=1744398095&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:0,http://109.200.130.123:7537/play/a020
+#EXTINF:0,http://188.190.222.53/Illuzion+/index.m3u8
+#EXTINF:0,http://130.193.73.10:8937/play/a03k
+#EXTINF:0,http://31.173.165.29:8000/play/a01e/index.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:0,http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD
+#EXTINF:0,http://130.193.73.10:8937/play/a037
+#EXTINF:0,http://130.193.73.10:8937/play/a03c
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
+#EXTINF:0,http://194.158.218.123:8880/Retrotv/index.m3u8
+#EXTINF:0,http://31.173.165.29:8000/play/a04g/index.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
+#EXTINF:0,Viju TV1000 http://130.193.73.10:8937/play/a02u
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
+#EXTINF:0,http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
+#EXTINF:0,http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,http://188.190.222.53/Mir_seriala/index.m3u8
+#EXTINF:0,http://188.190.222.53/Mosfilm/index.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
+#EXTINF:0,http://cdn2.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:0,http://cdn2.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-referrer=https://pobeda.tv/
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b5128000_slru.m3u8
+#EXTINF:0,http://130.193.73.10:8937/play/a03l
+#EXTINF:0,http://130.193.73.10:8937/play/a03o
+#EXTINF:0,http://192.166.144.101:8000/play/a00b/index.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/42/index.m3u8
+#EXTINF:0,https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
+#EXTINF:0,rtmp://212.0.213.132//Fenix_Kino
+#EXTINF:0,Eurosport 1 (HD)
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:0,Eurosport 2 (HD)
+http://109.70.186.70:9090/udp/239.185.1.15:1234
+#EXTINF:0,FightBox (EDTV)
+http://188.190.222.53/FightBOX/index.m3u8
+#EXTINF:0,Viju+ sport (EDTV)
+http://109.197.192.121:8080/viasats/index.m3u8
+#EXTINF:0,https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:0,https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
+#EXTINF:0,https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:0,http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:0,http://130.193.73.10:8937/play/a04m
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Futbolnyy_HD
+#EXTINF:0,http://130.193.73.10:8937/play/a04l
+#EXTINF:0,https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:0, http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sportivnii
+#EXTINF:0, http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hokeinii_HD
+#EXTINF:0,Discovery (HD)
+http://91.146.94.234:10000/play/a041
+#EXTINF:0,Galaxy TV (EDTV)
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:0,Nano (HD)
+http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
+#EXTINF:0,Nat Geo Wild (HD)
+ttp://188.237.47.212:6005
+#EXTINF:0,RTG (EDTV)
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:0,RTG (HD ready)
+http://194.143.148.28:8080/RTG_HD/index.m3u8
+#EXTINF:0,Top Secret (EDTV)
+http://178.124.152.238:8088/sovsec
+#EXTINF:0,Travel+Adventure (EDTV)
+http://130.193.73.10:8937/play/a026
+#EXTINF:0,TERRA (HD)
+http://194.143.148.28:8080/RTG_HD/index.m3u8
+#EXTINF:0,UNIVER (HD)
+http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
+#EXTINF:0,Viju HISTORY (EDTV)
+http://188.190.222.53/Viasat_History/index.m3u8
+#EXTINF:0,Viju NATURE (EDTV)
+http://109.70.186.70:9090/udp/239.185.1.7:1234
+#EXTINF:0,http://ott-cdn.ucom.am/s68/04.m3u8
+#EXTINF:0,https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
+#EXTINF:0,http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:0,http://188.190.222.53/History/index.m3u8
+#EXTINF:0,http://178.124.152.238:8088/nauka
+#EXTINF:0,https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
+#EXTINF:0,http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:0,http://194.143.148.28:8080/Nauka20/mpegts
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
+#EXTINF:0,http://130.193.73.10:8937/play/a01n
+#EXTINF:0,http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:0,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tehno24
+#EXTINF:0,Viju EXPLORE (EDTV)
+http://109.70.186.70:9090/udp/239.185.1.5:1234
+#EXTINF:0,http://178.124.152.238:8088/auto24
+#EXTINF:0,http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
+#EXTINF:0,http://130.193.73.10:8937/play/a01q
+#EXTINF:0,http://130.193.73.10:8937/play/a02d
+#EXTINF:0,http://188.190.222.53/Dikiy/index.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+#EXTINF:0,http://185.57.68.33/40/mpegts
+#EXTINF:0,http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:0,http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+#EXTINF:0,http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:0,http://91.247.68.229:8000/play/Lapki/index.m3u8
+#EXTINF:0,http://cdn2.ntv.ru/th_style/playlist.m3u8
+#EXTINF:0,http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:0,http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:0,http://tvip.btk.teleos.ru:8081/chid142/tracks-v1a1/mono.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Rybalov
+#EXTINF:0,http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:0,http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
+#EXTINF:0,http://194.158.218.123:8880/Usadba/index.m3u8
+#EXTINF:0,12 https://gtrkomsk-live.cdnvideo.ru/gtrkomsk/gtrkomsk.smil/playlist.m3u8
+#EXTINF:0,Sochi Live (http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:0,http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
+#EXTINF:0,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+#EXTINF:0,https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
+#EXTINF:0,http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:0,http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
+#EXTINF:0,http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:0,http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0,http://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_103_aa662c17/chunklist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:0,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:0,https://donmedia.bonus-tv.ru/cdn/donmedia/playlist_sdmid.m3u8
+#EXTINF:0,http://91.143.36.166:7844/udp/239.1.190.4:1234
+#EXTINF:0,https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:0,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+#EXTINF:0,http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:0,https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:0,http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:0,https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:0,https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:0,https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:0,http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:0,http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+#EXTINF:0,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:0,https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:0,https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+#EXTINF:0,https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:0,http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+#EXTINF:0,http://tvrlive.susu.ru/1800k/playlist.m3u8
+#EXTINF:0,http://ic7.101.ru:8000/v3_1
+#EXTINF:0,http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:0,http://nashe1.hostingradio.ru:80/nashe-256
+#EXTINF:0,http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:0,http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:0,http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+#EXTINF:0,http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:0,http://ic7.101.ru:8000/v4_1
+#EXTINF:0,http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:0,http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+#EXTINF:0,http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:0,http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:0,http://ic7.101.ru:8000/v5_1
