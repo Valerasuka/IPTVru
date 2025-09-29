@@ -1514,11 +1514,5 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
 http://ic7.101.ru:8000/v5_1
-#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="Кино и сериалы RU",Русский бестселлер
-http://178.217.72.66:8080/russkiy_bestseller/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://iptvx.one/picons/russky-detektiv.png" group-title="Кино и сериалы RU",Русский детектив
-http://77.235.1.19:8000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://iptvx.one/picons/russky-illuzion.png" group-title="Кино и сериалы RU",Русский иллюзион
-http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
-#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Кино и сериалы RU",Русский роман
-http://176.62.72.48:8001/play/a03r/index.m3u8
+http://5.59.234.122:81/udp/239.72.6.58:1234
+#EXTINF:-1 group-title=»Сериалы» tvg-id=»237.webarmen.com» tvg-logo=»https://webarmen.com/my/iptv/uploads/icon/237.png» tvg-name=»Русский Роман»,Русский Роман
